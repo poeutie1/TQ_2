@@ -42,4 +42,3 @@ def process_excel_file():
 
 if __name__ == "__main__":
     process_excel_file()
-
