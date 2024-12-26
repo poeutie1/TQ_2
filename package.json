@@ -1,0 +1,28 @@
+{
+  "name": "vite-admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:poeutie1/TQ.git",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "husky",
+    "clean": "rm -rf node_modules",
+    "dev": "vite",
+    "build:dev": "tsc -b && vite build --mode dev",
+    "build:prod": "tsc -b && vite build --mode prod",
+    "preview": "vite preview",
+    "lint": "run-s lint:eslint lint:prettier lint:stylelint",
+    "lint:eslint": "eslint --cache .",
+    "lint:prettier": "prettier --check '**/*.{js,jsx,ts,tsx}'",
+    "lint:stylelint": "stylelint '**/*.{css,scss}'",
+    "fix": "run-s fix:eslint fix:prettier fix:stylelint",
+    "fix:eslint": "eslint . --fix",
+    "fix:prettier": "prettier --write '**/*.{js,jsx,ts,tsx}'",
+    "fix:stylelint": "stylelint --fix '**/*.{css,scss}'",
+    "type-check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "husky": "^9.1.6",
+    "vite": "^5.4.8"
+  }
+}

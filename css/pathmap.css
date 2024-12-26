@@ -1,0 +1,223 @@
+/* リセット */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box; /* すべての要素でボックスサイズを正しく計算 */
+}
+
+/* iPhone版のシンプルなスタイル */
+@media (max-width: 768px) {
+    html, body {
+        height: 100vh; /* ビューポートの高さを100%に設定 */
+        overflow: hidden; /* スクロールバーを非表示に */
+    }
+
+    body {
+        background: #eee;
+        margin: 0; /* 上下左右のマージンをゼロに */
+        padding: 0;
+    }
+
+    /* Leafletマップコンテナのスタイル */
+    .leaflet-container {
+        width: 100vw; /* ビューポートの幅を100%に設定 */
+        height: 100vh; /* ビューポートの高さを100%に設定 */
+        background: #ddd;
+        position: absolute; /* 位置を絶対配置に */
+        top: 0;
+        left: 0;
+        z-index: 10;
+        overflow: hidden;
+    }
+
+    /* Zoomエリアのスタイル */
+    .zoom-area {
+        position: absolute; /* 絶対配置でページ全体に広げる */
+        top: 0;
+        left: 0;
+        width: 100vw; /* ビューポートの幅を使用 */
+        height: 100vh; /* ビューポートの高さを使用 */
+        overflow: hidden;
+        background-color: #ddd;
+    }
+
+    /* imgタグは非表示 */
+    .zoom-area img {
+        display: none;
+    }
+}
+
+
+/* PC版のスタイル */
+@media (min-width: 769px) {
+    body {
+        background: #eee;
+        margin-left: 20px;
+        overflow: hidden;
+    }
+
+    .m-lens-container {
+        position: absolute;
+        top: 5px;
+        left: 5px;
+        border: 1px solid #000;
+        z-index: 30;
+    }
+
+    .m-lens {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 40;
+        background: #f57716;
+        opacity: 0.3;
+        height: 800px;
+        width: 1340px;
+        transform-origin: top left;
+        transform: scale(0.05, 0.05);
+    }
+
+    .thumbnail, .slides {
+        display: flex;
+    }
+
+    .zoom-area {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        border: 1px solid #ccc;
+        overflow: hidden;
+        cursor: move;
+    }
+}
+
+
+/* PC版のスタイル */
+@media (min-width: 769px) {
+
+    /* リセット */
+    * {
+        margin: 0;
+        padding: 0;
+        border: 0;
+    }
+
+    /* body */
+    body {
+        background: #eee;
+        margin-left: 20px; /* 左に20pxのマージンを設定 */
+        overflow: hidden; /* スクロールバーを非表示にする */
+    }
+
+    map, area {
+        cursor: pointer;
+    }
+
+    /* m-lensコンテナ */
+    .m-lens-container {
+        display: block;
+        position: absolute;
+        top: 5px;
+        left: 5px;
+        border: 1px solid #000;
+        z-index: 30; /* 追加: 他の要素より高く */
+    }
+
+    /* m-lens */
+    .m-lens {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 40;
+        background: #f57716;
+        opacity: 0.3;
+        height: 800px;
+        width: 1340px;
+        transform-origin: top left;
+        transform: scale(0.05, 0.05);
+    }
+
+    /* サムネイル表示のためのスタイル */
+    .m-lens-container img {
+        max-height: 172px;
+        max-width: 172px;
+    }
+
+    .thumbnail {
+        display: flex;
+    }
+
+    .slides {
+        display: flex;
+        justify-content: space-between;
+        width: 700px;
+    }
+
+    .slide {
+        display: table;
+        background: #fff;
+        text-align: center;
+        height: 172px;
+        width: 172px;
+    }
+
+    .cell {
+        display: table-cell;
+        vertical-align: middle;
+        background-color: #eee;
+        border: 1px solid #aaa;
+    }
+
+    .images {
+        position: relative;
+    }
+
+    .slides-container {
+        padding-top: 5px;
+        width: 172px;
+        overflow: hidden;
+    }
+
+    /* Zoomエリアの設定 */
+    .zoom-area {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        border: 1px solid #ccc; /* 正常版に戻す */
+        overflow: hidden; /* 変更: hiddenをvisibleでPC版正常に */
+        cursor: move;
+    }
+
+    /* マップコンテナのスタイル */
+    .zoom-area .map-container {
+        position: relative;
+        width: 100%;
+        height: calc(100% - 50px); /* 高さを調整 */
+    }
+
+    /* 拡大縮小のスタイル */
+    .zoom-area img {
+        transform-origin: top left; /* 拡大縮小の基準を左上に */
+        transform: scale(1.0, 1.0);
+        margin-left: 0;
+        margin-top: 0;
+        width: auto;
+    }
+
+    /* メディアクエリでレスポンシブ対応 */
+    @media (max-width: 768px) {
+        .zoom-area {
+            width: 90vw;
+        }
+        .slides {
+            width: 100%;
+        }
+    }
+}
+
