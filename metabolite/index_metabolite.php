@@ -16,7 +16,6 @@ $data = json_decode($output, true);
     <title>Metabolite Structure</title>
 </head>
 
-
 <body>
     <div class="dm">
         <?php foreach ($data as $category => $subcategories): ?>
