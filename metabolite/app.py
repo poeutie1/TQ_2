@@ -1,10 +1,9 @@
 import pandas as pd
 import json
-import sys
 
 def process_excel_file():
     df = pd.read_excel(
-        '/Users/satorio/Downloads/ThermusQ-MTQ-Metabolite-Standard-240904-18YB.xlsx',
+        '/Users/satorio/Desktop/TQ/metabolite/ThermusQ-MTQ-Metabolite-Standard-240904-18YB.xlsx',
         #↑アドレス後で変更
         skiprows=[1, 227],  
         usecols=[1, 2, 3, 4, 5, 7, 11, 13, 15, 19, 20, 21, 22, 23, 24]
