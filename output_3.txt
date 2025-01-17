@@ -1,0 +1,4 @@
+opt bits E(67887)
+ys40|YS40_170|no_data hypothetical protein         (  87)  568 171.1 1.6e-43
+ytma|TMA_168|no_data hypothetical protein          (  87)  568 171.1 1.6e-43
+y40i|PGDDIFCJ_00177|no_data hypothetical protein   (  87)  562 169.3 5.5e-43

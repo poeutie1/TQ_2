@@ -1,0 +1,498 @@
+>>y40i|PGDDIFCJ_00173|no_data hypothetical protein        (497 aa)
+ initn: 3158 init1: 3158 opt: 3158  Z-score: 4369.3  bits: 818.0 E(67887):    0
+Smith-Waterman score: 3158; 95.0% identity (100.0% similar) in 497 aa overlap (1-497:1-497)
+
+               10        20        30        40        50        60
+ytma|T MAIELPQYAETIETKHFTTKSEIIRLPYVFHALGITNKGSVPVKVYLSESNPNSYVVVDA
+       ::::::::.::::::.:::.::::::::::::::::::::::::::::::::::::::::
+y40i|P MAIELPQYSETIETKQFTTQSEIIRLPYVFHALGITNKGSVPVKVYLSESNPNSYVVVDA
+               10        20        30        40        50        60
+
+               70        80        90       100       110       120
+ytma|T NSYKEVSVSSNYIKFVYETTGTYDITFEIFSLFSEGFLAPRFPNLYVQDINGNYVLYNPL
+       :::::::.:::::::::..:::::::::::::::::::::::::::::::::::::::::
+y40i|P NSYKEVSASSNYIKFVYDATGTYDITFEIFSLFSEGFLAPRFPNLYVQDINGNYVLYNPL
+               70        80        90       100       110       120
+
+              130       140       150       160       170       180
+ytma|T TTDGFFTETYSYGDSLAVNRPYNSETMLEVDYWFNGQKLASTDGTFSSDFFTTLIQNFIT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+y40i|P TTDGFFTETYSYGDSLAVNRPYNSETMLEVDYWFNGQKLASTDGTFSSDFFTTLIQNFIT
+              130       140       150       160       170       180
+
+              190       200       210       220       230       240
+ytma|T SVFPYSDVNDVLRPLPGGQTTDIINKIKDYWQQIDRPINDEYVGGWAKLESFDRKLSLLS
+       ::::::::::::::::::::.:::::::::::::::::::::::::::::::::::::::
+y40i|P SVFPYSDVNDVLRPLPGGQTADIINKIKDYWQQIDRPINDEYVGGWAKLESFDRKLSLLS
+              190       200       210       220       230       240
+
+              250       260       270       280       290       300
+ytma|T FVLSSGDKIEFPFTVLGFNIENLDDSNSATVRIYNDSSYTDQTISPSSSYIGNLEPATKF
+       ::::.:::::::::::::::::::.::.::::::::::::::::::::::::::::::::
+y40i|P FVLSAGDKIEFPFTVLGFNIENLDSSNNATVRIYNDSSYTDQTISPSSSYIGNLEPATKF
+              250       260       270       280       290       300
+
+              310       320       330       340       350       360
+ytma|T EVLSGLVRISFSGYAVKMLSFAPIINIYYPIGFDETSGLPNDAYTLFQNRLTEFETWLTN
+       :::::::::::::::::::::::::::::::::::::::::::::::::..::.:.::.:
+y40i|P EVLSGLVRISFSGYAVKMLSFAPIINIYYPIGFDETSGLPNDAYTLFQNQITELENWLAN
+              310       320       330       340       350       360
+
+              370       380       390       400       410       420
+ytma|T SKFSGRVFKYKWVQHVPETRNVWDADYYQITFADSKIPLPFDELRLYLRDWYTYSQLEKQ
+       .:::::::::::::::::::::::::::::::::::::::::::::::::::::.:.:::
+y40i|P AKFSGRVFKYKWVQHVPETRNVWDADYYQITFADSKIPLPFDELRLYLRDWYTYAQIEKQ
+              370       380       390       400       410       420
+
+              430       440       450       460       470       480
+ytma|T IISRVWDENYSVLGQYGKPKDINEVINNDNIIYVLGQNFSGYAAGTARRDAKREFLRRVL
+       :::::::::::::::::::::.::.::::::.:::::.::.::::::::.:::::::.::
+y40i|P IISRVWDENYSVLGQYGKPKDMNEIINNDNIVYVLGQDFSSYAAGTARREAKREFLRKVL
+              430       440       450       460       470       480
+
+              490       
+ytma|T LEGYLGNYAGTLTYSIN
+       :::::::::::::::::
+y40i|P LEGYLGNYAGTLTYSIN
+              490       
+
+>>sn11|TthSNM11_00960|no_data carboxypeptidase regulator  (664 aa)
+ initn:  72 init1:  44 opt:  99  Z-score: 115.3  bits: 31.2 E(67887):  8.8
+Smith-Waterman score: 99; 21.5% identity (52.7% similar) in 237 aa overlap (1-223:28-254)
+
+                                          10           20        30
+ytma|T                            MAIELPQYAETIETKHFT---TKSEIIRLPYVF
+                                  ..:  :: . :..   .:   : .. .:.  : 
+sn11|T MRKALGLGLLLGALLLAGCGQDTVKPSVTITAPQNGATVNQDTLTVQGTAQDNVRVNRVT
+               10        20        30        40        50        60
+
+               40              50        60         70        80   
+ytma|T HALGITNKGSVP------VKVYLSESNPNSYVVVDANSYKEVSVS-SNYIKFVYETTGTY
+       . :.  ..  ::      :.  .. . :..  .. ...: ... . :  .. .:. :...
+sn11|T YQLNNGQEQEVPITPGTSVNFAFTLTLPQGQNTITVHAYDQANNKGSATVQVTYDPTAVH
+               70        80        90       100       110       120
+
+            90       100       110       120        130        140 
+ytma|T DITFEIFSLFSEGFLAPRFPNLYVQDINGNYVLYNPLTTDGFFTE-TYSYGD-SLAVNRP
+       ...  . : .. : .:    .::    ::: :  .   .:: :.  : . :   : ...:
+sn11|T NLSGTVVSEYAGGPVAGSTLKLYK---NGNLVATTLSGADGSFSFGTLAPGTYRLEAQKP
+              130       140          150       160       170       
+
+             150       160       170       180       190       200 
+ytma|T YNSETMLEVDYWFNGQKLASTDGTFSSDFFTTLIQNFITSVFPYSDVNDVLRPLPGGQTT
+         . ..::    .   ...:.   .. . : .   .   ...  .: :    :: ::  :
+sn11|T GMAGSVLE---GIRVPEMTSVT-LIQRQAFDATATTTPPTLLITQDGNT---PLEGGTFT
+       180          190        200       210       220          230
+
+               210       220       230       240       250         
+ytma|T DIIN-KIK-DYWQQIDRPINDEYVGGWAKLESFDRKLSLLSFVLSSGDKIEFPFTVLGFN
+       : :  ... :  ..  ::.   ::                                    
+sn11|T DTIPFRVQVDTSKDYVRPMRYIYVALGRTPGSAFVTNSATWTHRIFTDTEDTGNQALSGS
+              240       250       260       270       280       290
+
+
+67885>>>ytma|TMA_166|no_data hypothetical protein - 361 aa
+Library: TQ-ALL-Genes.241011.p
+  20507781 residues in 67887 sequences
+
+Statistics:  Expectation_n fit: rho(ln(x))= 7.5773+/-0.000754; mu= 7.7103+/- 0.041
+ mean_var=64.1861+/-14.713, 0's: 0 Z-trim(108.0): 7  B-trim: 237 in 1/39
+ Lambda= 0.160086
+ statistics sampled from 7486 (7490) to 7486 sequences
+Algorithm: FASTA (3.8 Nov 2011) [optimized]
+Parameters: BL50 matrix (15:-5), open/ext: -10/-2
+ ktup: 2, E-join: 1 (0.768), E-opt: 0.2 (0.402), width:  16
+ Scan time:  1.080
+
+The best scores are:                                      opt bits E(67887)
+ytma|TMA_166|no_data hypothetical protein          ( 361) 2227 521.4 9.8e-148
+ys40|YS40_168|no_data hypothetical protein         ( 361) 2222 520.2 2.2e-147
+y40i|PGDDIFCJ_00175|no_data hypothetical protein   ( 362) 2075 486.3 3.6e-137
+ytma|TMA_076|no_data hypothetical protein          (1760)  117 33.6     3.3
+tts6|Ththe16_0016|pilB type IV pilus assembly ATPa ( 889)  105 31.0      10
+
+>>ytma|TMA_166|no_data hypothetical protein               (361 aa)
+ initn: 2227 init1: 2227 opt: 2227  Z-score: 2771.5  bits: 521.4 E(67887): 9.8e-148
+Smith-Waterman score: 2227; 100.0% identity (100.0% similar) in 361 aa overlap (1-361:1-361)
+
+               10        20        30        40        50        60
+ytma|T MPKEYEHCKESYLKKGVSEKKAKAICAGMYYNRHGITVNEAKKRGLKSMKLLYLGRTKEA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ytma|T MPKEYEHCKESYLKKGVSEKKAKAICAGMYYNRHGITVNEAKKRGLKSMKLLYLGRTKEA
+               10        20        30        40        50        60
+
+               70        80        90       100       110       120
+ytma|T LKSLILANGEELKDFVIVKVPDSLRKNEVVKSIYPKVENEEYVYVAVHKSVVDVTVEGKV
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ytma|T LKSLILANGEELKDFVIVKVPDSLRKNEVVKSIYPKVENEEYVYVAVHKSVVDVTVEGKV
+               70        80        90       100       110       120
+
+              130       140       150       160       170       180
+ytma|T VLSLEKLLSKVEENETSKQNEDNVAHVEAGKEVVKEGKLEKSSGESGQTGSLKEEIREEV
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ytma|T VLSLEKLLSKVEENETSKQNEDNVAHVEAGKEVVKEGKLEKSSGESGQTGSLKEEIREEV
+              130       140       150       160       170       180
+
+              190       200       210       220       230       240
+ytma|T VVTKSKHSVEEDDSNVPFLDDVIEKLKRKNILTKEERAALVNALRVIEEFMQDKLTDEQK
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ytma|T VVTKSKHSVEEDDSNVPFLDDVIEKLKRKNILTKEERAALVNALRVIEEFMQDKLTDEQK
+              190       200       210       220       230       240
+
+              250       260       270       280       290       300
+ytma|T TNLSTAISDVDMALSEESNKSEDKSEDKALEATSATVEALEKEDLESEVVPVTKSLSEHE
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ytma|T TNLSTAISDVDMALSEESNKSEDKSEDKALEATSATVEALEKEDLESEVVPVTKSLSEHE
+              250       260       270       280       290       300
+
+              310       320       330       340       350       360
+ytma|T KFLSLKSIDGTNPVFESKHDANRYARLYNLHNKDKKAVVLPASMNDKRKYGTKAKYVVVF
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ytma|T KFLSLKSIDGTNPVFESKHDANRYARLYNLHNKDKKAVVLPASMNDKRKYGTKAKYVVVF
+              310       320       330       340       350       360
+
+        
+ytma|T E
+       :
+ytma|T E
+        
+
+>>ys40|YS40_168|no_data hypothetical protein              (361 aa)
+ initn: 2222 init1: 2222 opt: 2222  Z-score: 2765.3  bits: 520.2 E(67887): 2.2e-147
+Smith-Waterman score: 2222; 99.7% identity (100.0% similar) in 361 aa overlap (1-361:1-361)
+
+               10        20        30        40        50        60
+ytma|T MPKEYEHCKESYLKKGVSEKKAKAICAGMYYNRHGITVNEAKKRGLKSMKLLYLGRTKEA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ys40|Y MPKEYEHCKESYLKKGVSEKKAKAICAGMYYNRHGITVNEAKKRGLKSMKLLYLGRTKEA
+               10        20        30        40        50        60
+
+               70        80        90       100       110       120
+ytma|T LKSLILANGEELKDFVIVKVPDSLRKNEVVKSIYPKVENEEYVYVAVHKSVVDVTVEGKV
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ys40|Y LKSLILANGEELKDFVIVKVPDSLRKNEVVKSIYPKVENEEYVYVAVHKSVVDVTVEGKV
+               70        80        90       100       110       120
+
+              130       140       150       160       170       180
+ytma|T VLSLEKLLSKVEENETSKQNEDNVAHVEAGKEVVKEGKLEKSSGESGQTGSLKEEIREEV
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ys40|Y VLSLEKLLSKVEENETSKQNEDNVAHVEAGKEVVKEGKLEKSSGESGQTGSLKEEIREEV
+              130       140       150       160       170       180
+
+              190       200       210       220       230       240
+ytma|T VVTKSKHSVEEDDSNVPFLDDVIEKLKRKNILTKEERAALVNALRVIEEFMQDKLTDEQK
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ys40|Y VVTKSKHSVEEDDSNVPFLDDVIEKLKRKNILTKEERAALVNALRVIEEFMQDKLTDEQK
+              190       200       210       220       230       240
+
+              250       260       270       280       290       300
+ytma|T TNLSTAISDVDMALSEESNKSEDKSEDKALEATSATVEALEKEDLESEVVPVTKSLSEHE
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ys40|Y TNLSTAISDVDMALSEESNKSEDKSEDKALEATSATVEALEKEDLESEVVPVTKSLSEHE
+              250       260       270       280       290       300
+
+              310       320       330       340       350       360
+ytma|T KFLSLKSIDGTNPVFESKHDANRYARLYNLHNKDKKAVVLPASMNDKRKYGTKAKYVVVF
+       ::::::::::::::::::::::::::::::::.:::::::::::::::::::::::::::
+ys40|Y KFLSLKSIDGTNPVFESKHDANRYARLYNLHNEDKKAVVLPASMNDKRKYGTKAKYVVVF
+              310       320       330       340       350       360
+
+        
+ytma|T E
+       :
+ys40|Y E
+        
+
+>>y40i|PGDDIFCJ_00175|no_data hypothetical protein        (362 aa)
+ initn: 1158 init1: 1158 opt: 2075  Z-score: 2581.7  bits: 486.3 E(67887): 3.6e-137
+Smith-Waterman score: 2075; 92.5% identity (97.8% similar) in 362 aa overlap (1-361:1-362)
+
+               10        20        30        40        50        60
+ytma|T MPKEYEHCKESYLKKGVSEKKAKAICAGMYYNRHGITVNEAKKRGLKSMKLLYLGRTKEA
+       ::::::::::::::::::::.:::::::::::::::::::::::::::::::::::::::
+y40i|P MPKEYEHCKESYLKKGVSEKRAKAICAGMYYNRHGITVNEAKKRGLKSMKLLYLGRTKEA
+               10        20        30        40        50        60
+
+               70        80        90       100       110       120
+ytma|T LKSLILANGEELKDFVIVKVPDSLRKNEVVKSIYPKVENEEYVYVAVHKSVVDVTVEGKV
+       ::::::::::::::::::::::::::::::::.:::::::::::::::::::::::::::
+y40i|P LKSLILANGEELKDFVIVKVPDSLRKNEVVKSLYPKVENEEYVYVAVHKSVVDVTVEGKV
+               70        80        90       100       110       120
+
+              130       140       150       160       170       180
+ytma|T VLSLEKLLSKVEENETSKQNEDNVAHVEAGKEVVKEGKLEKSSGESGQTGSLKEEIREEV
+       :: ::::::::::::::::::::::::::::::::.::::::::::::::::::::.:::
+y40i|P VLCLEKLLSKVEENETSKQNEDNVAHVEAGKEVVKDGKLEKSSGESGQTGSLKEEIHEEV
+              130       140       150       160       170       180
+
+              190        200       210       220       230         
+ytma|T VVTKSKHSVEE-DDSNVPFLDDVIEKLKRKNILTKEERAALVNALRVIEEFMQDKLTDEQ
+       :::::::: :: :::::: ::::.::::.:::::.:::::::::::::::::::::::::
+y40i|P VVTKSKHSEEEKDDSNVPTLDDVVEKLKKKNILTNEERAALVNALRVIEEFMQDKLTDEQ
+              190       200       210       220       230       240
+
+     240       250       260       270       280       290         
+ytma|T KTNLSTAISDVDMALSEESNKSEDKSEDKALEATSATVEALEKEDLESEVVPVTKSLSEH
+       ..::::::::::::::::..::: .::.:::::::.::::.:::::: :::::::::::.
+y40i|P RANLSTAISDVDMALSEEGDKSEAESEEKALEATSSTVEAVEKEDLEPEVVPVTKSLSEY
+              250       260       270       280       290       300
+
+     300       310       320       330       340       350         
+ytma|T EKFLSLKSIDGTNPVFESKHDANRYARLYNLHNKDKKAVVLPASMNDKRKYGTKAKYVVV
+       ::::::::.:: :::::::::::::::::::::. :::::::::::.:::::::::::::
+y40i|P EKFLSLKSVDGKNPVFESKHDANRYARLYNLHNEGKKAVVLPASMNEKRKYGTKAKYVVV
+              310       320       330       340       350       360
+
+     360 
+ytma|T FE
+       ::
+y40i|P FE
+         
+
+>>ytma|TMA_076|no_data hypothetical protein               (1760 aa)
+ initn:  90 init1:  54 opt: 117  Z-score: 122.8  bits: 33.6 E(67887):  3.3
+Smith-Waterman score: 120; 25.5% identity (58.7% similar) in 247 aa overlap (82-306:912-1147)
+
+              60        70        80        90        100       110
+ytma|T LYLGRTKEALKSLILANGEELKDFVIVKVPDSLRKNEVVKSIYPKVE-NEEYVYVAVHKS
+                                     :..  : :...  : .  .:: :... ...
+ytma|T VPYVEFENYEDAVLNILKTKVPKENLLYLFDDFSPN-VIHTQTPPISFDEEEVFTTGEEK
+             890       900       910        920       930       940
+
+                  120          130         140       150           
+ytma|T ----VVDVTVEGKVVL---SLEKLLSKVEEN--ETSKQNEDNVAHVEAGKEV-VKE-GKL
+           . :: .: .: :   : ...  .  ::  ::  .::. . .:.  ::. .:. :. 
+ytma|T QPSFIEDVPTEPEVPLEKVSYKEVTFEDLENLEETLDENESLTLYVDEDKEIEIKKVGNR
+              950       960       970       980       990      1000
+
+     160         170             180       190       200       210 
+ytma|T EKSSGESGQT--GSLK-EEIRE-----EVVVTKSKHSVEEDDSNVPFLDDVIEKLKRKNI
+          . .::.   :.:. :....     ...: .. ... :  :.  .:.. ::.:..   
+ytma|T LFCTCRSGNKTLGTLQLEDLKKLGKDFNTAVDEAFETISEATSQDKLLNSSIEELNKA--
+             1010      1020      1030      1040      1050          
+
+             220       230       240       250       260       270 
+ytma|T LTKEERAALVNALRVIEEFMQDKLTDEQKTNLSTAISDVDMALSEESNKSEDKSEDKALE
+         ::.. .  .: . :..  ..::..: :..  .  :.    .:: .  .:. ::     
+ytma|T -IKEKKKSKKKAEKKIKD-KKEKLSEETKAEGIVEPSSQTEEVSEVAPLTEEISEP----
+      1060      1070       1080      1090      1100      1110      
+
+             280         290       300       310       320         
+ytma|T ATSATVEALEK--EDLESEVVPVTKSLSEHEKFLSLKSIDGTNPVFESKHDANRYARLYN
+         :.:.:..:.  :  .::: :  :. .. .:  : :                       
+ytma|T --SSTTEVFEEASETKKSEVKPDKKTSAKTKKVPSKKQKEKSSERAKEKTEEGIKEEVKE
+             1120      1130      1140      1150      1160      1170
+
+     330       340       350       360                             
+ytma|T LHNKDKKAVVLPASMNDKRKYGTKAKYVVVFE                            
+                                                                   
+ytma|T NLEQQASEIVLEEEKKESVEKIETNLSAEKEEYYSNLINLFSSPSTISYVAEAIQQAVDF
+             1180      1190      1200      1210      1220      1230
+
+>>tts6|Ththe16_0016|pilB type IV pilus assembly ATPase P  (889 aa)
+ initn:  53 init1:  53 opt: 105  Z-score: 114.3  bits: 31.0 E(67887):   10
+Smith-Waterman score: 105; 22.2% identity (51.7% similar) in 180 aa overlap (108-285:455-623)
+
+        80        90       100       110       120       130       
+ytma|T VKVPDSLRKNEVVKSIYPKVENEEYVYVAVHKSVVDVTVEGKVVLSLEKLLSKVEENETS
+                                     :. .  :..:. ..  .:.. ::.: .: .
+tts6|T GNRLVLLMKDPRNILALDDVRLALKRKGLNHEVAPAVATEAAITKLIERFYSKAELSEIA
+          430       440       450       460       470       480    
+
+       140       150       160       170       180       190       
+ytma|T KQNEDNVAHVEAGKEVVKEGKLEKSSGESGQTGSLKEEIREEVVVTKSKHSVEEDDSNVP
+       :.         : :.::.:.       ::.    .:. :::  .   :   .:  ...: 
+tts6|T KE--------FAQKQVVEEAPSPLELDESAAQKFVKQVIREAFLQDASDIHIEPRQNDVQ
+                  490       500       510       520       530      
+
+       200       210       220         230       240       250     
+ytma|T FLDDVIEKLKRKNILTKEERAALVNALRVIE--EFMQDKLTDEQKTNLSTAISDVDMALS
+           .   :.  . : :    :........   .. . .: .. ..    .  :::. ::
+tts6|T VRLRIDGALRPYSTLPKGALNAVISVVKIMGGLNIAEKRLPQDGRVRYREGAIDVDLRLS
+        540       550       560       570       580       590      
+
+         260       270       280       290       300       310     
+ytma|T EESNKSEDKSEDKALEATSATVEALEKEDLESEVVPVTKSLSEHEKFLSLKSIDGTNPVF
+          .   .:.  . :. .:   .  : :::                              
+tts6|T TLPTVYGEKAVMRLLKKAS---DIPEIEDLGFAPGVFERFKEVISKPYGIFLITGPTGSG
+        600       610          620       630       640       650   
+
+
+67886>>>ytma|TMA_167|no_data hypothetical protein - 189 aa
+Library: TQ-ALL-Genes.241011.p
+  20507781 residues in 67887 sequences
+
+Statistics:  Expectation_n fit: rho(ln(x))= 6.5458+/-0.000728; mu= 7.6977+/- 0.038
+ mean_var=46.8555+/-10.691, 0's: 0 Z-trim(105.3): 7  B-trim: 2 in 1/38
+ Lambda= 0.187367
+ statistics sampled from 5300 (5303) to 5300 sequences
+Algorithm: FASTA (3.8 Nov 2011) [optimized]
+Parameters: BL50 matrix (15:-5), open/ext: -10/-2
+ ktup: 2, E-join: 1 (0.768), E-opt: 0.2 (0.402), width:  16
+ Scan time:  0.650
+
+The best scores are:                                      opt bits E(67887)
+ytma|TMA_167|no_data hypothetical protein          ( 189) 1218 335.2 3.1e-92
+ys40|YS40_169|no_data hypothetical protein         ( 189) 1209 332.7 1.7e-91
+y40i|PGDDIFCJ_00176|no_data hypothetical protein   ( 167)  925 256.0 1.9e-68
+
+>>ytma|TMA_167|no_data hypothetical protein               (189 aa)
+ initn: 1218 init1: 1218 opt: 1218  Z-score: 1775.1  bits: 335.2 E(67887): 3.1e-92
+Smith-Waterman score: 1218; 100.0% identity (100.0% similar) in 189 aa overlap (1-189:1-189)
+
+               10        20        30        40        50        60
+ytma|T MIQFKKTKQGLFWSCFLCYNSNMTEKELNQVIFKKFEELRDAIKTEFYNSIDEKYVEQIR
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ytma|T MIQFKKTKQGLFWSCFLCYNSNMTEKELNQVIFKKFEELRDAIKTEFYNSIDEKYVEQIR
+               10        20        30        40        50        60
+
+               70        80        90       100       110       120
+ytma|T TNKTFYNSEELANLVSTELKNQFEQIFQEAENEFKSFKFYLFDDAVGREDLNFNPGLCKT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ytma|T TNKTFYNSEELANLVSTELKNQFEQIFQEAENEFKSFKFYLFDDAVGREDLNFNPGLCKT
+               70        80        90       100       110       120
+
+              130       140       150       160       170       180
+ytma|T SKVHIILEGQFKTVDCGFLVLENSQILNKFIESFIRRTFGALIVRRLNEISAKIVEENAI
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ytma|T SKVHIILEGQFKTVDCGFLVLENSQILNKFIESFIRRTFGALIVRRLNEISAKIVEENAI
+              130       140       150       160       170       180
+
+                
+ytma|T ISTDSYDSA
+       :::::::::
+ytma|T ISTDSYDSA
+                
+
+>>ys40|YS40_169|no_data hypothetical protein              (189 aa)
+ initn: 1209 init1: 1209 opt: 1209  Z-score: 1762.0  bits: 332.7 E(67887): 1.7e-91
+Smith-Waterman score: 1209; 98.9% identity (100.0% similar) in 189 aa overlap (1-189:1-189)
+
+               10        20        30        40        50        60
+ytma|T MIQFKKTKQGLFWSCFLCYNSNMTEKELNQVIFKKFEELRDAIKTEFYNSIDEKYVEQIR
+       :::::::::::::::::::::::::.::::::::::::::::::::::::::::::::::
+ys40|Y MIQFKKTKQGLFWSCFLCYNSNMTEQELNQVIFKKFEELRDAIKTEFYNSIDEKYVEQIR
+               10        20        30        40        50        60
+
+               70        80        90       100       110       120
+ytma|T TNKTFYNSEELANLVSTELKNQFEQIFQEAENEFKSFKFYLFDDAVGREDLNFNPGLCKT
+       :::::::::::::::::.::::::::::::::::::::::::::::::::::::::::::
+ys40|Y TNKTFYNSEELANLVSTKLKNQFEQIFQEAENEFKSFKFYLFDDAVGREDLNFNPGLCKT
+               70        80        90       100       110       120
+
+              130       140       150       160       170       180
+ytma|T SKVHIILEGQFKTVDCGFLVLENSQILNKFIESFIRRTFGALIVRRLNEISAKIVEENAI
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ys40|Y SKVHIILEGQFKTVDCGFLVLENSQILNKFIESFIRRTFGALIVRRLNEISAKIVEENAI
+              130       140       150       160       170       180
+
+                
+ytma|T ISTDSYDSA
+       :::::::::
+ys40|Y ISTDSYDSA
+                
+
+>>y40i|PGDDIFCJ_00176|no_data hypothetical protein        (167 aa)
+ initn: 925 init1: 925 opt: 925  Z-score: 1348.2  bits: 256.0 E(67887): 1.9e-68
+Smith-Waterman score: 925; 84.4% identity (97.6% similar) in 167 aa overlap (23-189:1-167)
+
+               10        20        30        40        50        60
+ytma|T MIQFKKTKQGLFWSCFLCYNSNMTEKELNQVIFKKFEELRDAIKTEFYNSIDEKYVEQIR
+                             :::.:::::::.:::...:.::.::::::: :::::.:
+y40i|P                       MTEQELNQVIFQKFEKIKDTIKNEFYNSIDSKYVEQVR
+                                     10        20        30        
+
+               70        80        90       100       110       120
+ytma|T TNKTFYNSEELANLVSTELKNQFEQIFQEAENEFKSFKFYLFDDAVGREDLNFNPGLCKT
+       :::::::::::::::.:::::::::.::::::::::::::::::::::.::.:. :.:::
+y40i|P TNKTFYNSEELANLVGTELKNQFEQVFQEAENEFKSFKFYLFDDAVGRKDLGFESGFCKT
+       40        50        60        70        80        90        
+
+              130       140       150       160       170       180
+ytma|T SKVHIILEGQFKTVDCGFLVLENSQILNKFIESFIRRTFGALIVRRLNEISAKIVEENAI
+       ::::::::::::::::.:::::: ::.:::.::::.:::.::::.:::::::::.:::::
+y40i|P SKVHIILEGQFKTVDCSFLVLENFQIFNKFVESFIKRTFSALIVKRLNEISAKIIEENAI
+      100       110       120       130       140       150        
+
+                
+ytma|T ISTDSYDSA
+       ::::.: ::
+y40i|P ISTDNYGSA
+      160       
+
+
+67887>>>ytma|TMA_168|no_data hypothetical protein - 87 aa
+Library: TQ-ALL-Genes.241011.p
+  20507781 residues in 67887 sequences
+
+Statistics:  Expectation_n fit: rho(ln(x))= 5.8427+/-0.000734; mu= 6.3285+/- 0.039
+ mean_var=40.3353+/- 9.115, 0's: 0 Z-trim(107.6): 3  B-trim: 3 in 1/38
+ Lambda= 0.201944
+ statistics sampled from 7114 (7117) to 7114 sequences
+Algorithm: FASTA (3.8 Nov 2011) [optimized]
+Parameters: BL50 matrix (15:-5), open/ext: -10/-2
+ ktup: 2, E-join: 1 (0.768), E-opt: 0.2 (0.402), width:  16
+ Scan time:  0.440
+
+The best scores are:                                      opt bits E(67887)
+ys40|YS40_170|no_data hypothetical protein         (  87)  568 171.1 1.6e-43
+ytma|TMA_168|no_data hypothetical protein          (  87)  568 171.1 1.6e-43
+y40i|PGDDIFCJ_00177|no_data hypothetical protein   (  87)  562 169.3 5.5e-43
+
+>>ys40|YS40_170|no_data hypothetical protein              (87 aa)
+ initn: 568 init1: 568 opt: 568  Z-score: 900.4  bits: 171.1 E(67887): 1.6e-43
+Smith-Waterman score: 568; 100.0% identity (100.0% similar) in 87 aa overlap (1-87:1-87)
+
+               10        20        30        40        50        60
+ytma|T MIQLKLLDQDFEVEVDDRYLILYSNDDFCSSPKTMRFVGFEIYTFDNVFCGIKIRLEKLD
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ys40|Y MIQLKLLDQDFEVEVDDRYLILYSNDDFCSSPKTMRFVGFEIYTFDNVFCGIKIRLEKLD
+               10        20        30        40        50        60
+
+               70        80       
+ytma|T DRKLESIILVDEYNYEIDLSSFVSSYI
+       :::::::::::::::::::::::::::
+ys40|Y DRKLESIILVDEYNYEIDLSSFVSSYI
+               70        80       
+
+>>ytma|TMA_168|no_data hypothetical protein               (87 aa)
+ initn: 568 init1: 568 opt: 568  Z-score: 900.4  bits: 171.1 E(67887): 1.6e-43
+Smith-Waterman score: 568; 100.0% identity (100.0% similar) in 87 aa overlap (1-87:1-87)
+
+               10        20        30        40        50        60
+ytma|T MIQLKLLDQDFEVEVDDRYLILYSNDDFCSSPKTMRFVGFEIYTFDNVFCGIKIRLEKLD
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ytma|T MIQLKLLDQDFEVEVDDRYLILYSNDDFCSSPKTMRFVGFEIYTFDNVFCGIKIRLEKLD
+               10        20        30        40        50        60
+
+               70        80       
+ytma|T DRKLESIILVDEYNYEIDLSSFVSSYI
+       :::::::::::::::::::::::::::
+ytma|T DRKLESIILVDEYNYEIDLSSFVSSYI
+               70        80       
+
+>>y40i|PGDDIFCJ_00177|no_data hypothetical protein        (87 aa)
+ initn: 562 init1: 562 opt: 562  Z-score: 891.0  bits: 169.3 E(67887): 5.5e-43
+Smith-Waterman score: 562; 97.7% identity (100.0% similar) in 87 aa overlap (1-87:1-87)
+
+               10        20        30        40        50        60
+ytma|T MIQLKLLDQDFEVEVDDRYLILYSNDDFCSSPKTMRFVGFEIYTFDNVFCGIKIRLEKLD
+       :.::::::::::::::::::::::::::::::::.:::::::::::::::::::::::::
+y40i|P MVQLKLLDQDFEVEVDDRYLILYSNDDFCSSPKTIRFVGFEIYTFDNVFCGIKIRLEKLD
+               10        20        30        40        50        60
+
+               70        80       
+ytma|T DRKLESIILVDEYNYEIDLSSFVSSYI
+       :::::::::::::::::::::::::::
+y40i|P DRKLESIILVDEYNYEIDLSSFVSSYI
+               70        80       
+
+
+
+20507781 residues in 67887 query   sequences
+20507781 residues in 67887 library sequences
+ Tcomplib [36.3.8 Jul, 2015(preload9)] (64 proc in memory [0G])
+ start: Thu Oct 10 23:32:13 2024 done: Fri Oct 11 01:02:10 2024
+ Total Scan time: 91167.870 Total Display time: 9979.390
+
+Function used was FASTA [36.3.8 Jul, 2015(preload9)]
