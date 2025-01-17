@@ -5,7 +5,7 @@
   "repository": "git@github.com:poeutie1/TQ.git",
   "license": "MIT",
   "scripts": {
-    "prepare": "husky",
+    "prepare": "husky install",
     "clean": "rm -rf node_modules",
     "dev": "vite",
     "build:dev": "tsc -b && vite build --mode dev",
@@ -21,8 +21,13 @@
     "fix:stylelint": "stylelint --fix '**/*.{css,scss}'",
     "type-check": "tsc --noEmit"
   },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx}": "prettier --write"
+  },
   "devDependencies": {
-    "husky": "^9.1.6",
+    "husky": "^9.1.7",
+    "lint-staged": "^15.4.1",
+    "prettier": "^3.4.2",
     "vite": "^5.4.8"
   }
 }
