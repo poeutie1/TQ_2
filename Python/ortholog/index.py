@@ -20,6 +20,7 @@ with open(path, 'r') as f:
 
 
 
+
 if content:
     # 正規表現パターンの定義
     best_scores_pattern = re.compile(r"The best scores are:(.*?)(?:\n>>|\n\n|\Z)", re.DOTALL)
