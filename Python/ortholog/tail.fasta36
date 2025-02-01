@@ -1,498 +1,1217 @@
->>y40i|PGDDIFCJ_00173|no_data hypothetical protein        (497 aa)
- initn: 3158 init1: 3158 opt: 3158  Z-score: 4369.3  bits: 818.0 E(67887):    0
-Smith-Waterman score: 3158; 95.0% identity (100.0% similar) in 497 aa overlap (1-497:1-497)
 
-               10        20        30        40        50        60
-ytma|T MAIELPQYAETIETKHFTTKSEIIRLPYVFHALGITNKGSVPVKVYLSESNPNSYVVVDA
-       ::::::::.::::::.:::.::::::::::::::::::::::::::::::::::::::::
-y40i|P MAIELPQYSETIETKQFTTQSEIIRLPYVFHALGITNKGSVPVKVYLSESNPNSYVVVDA
-               10        20        30        40        50        60
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+sn76|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLKGRR
+             260       270       280       290       300       310 
 
-               70        80        90       100       110       120
-ytma|T NSYKEVSVSSNYIKFVYETTGTYDITFEIFSLFSEGFLAPRFPNLYVQDINGNYVLYNPL
-       :::::::.:::::::::..:::::::::::::::::::::::::::::::::::::::::
-y40i|P NSYKEVSASSNYIKFVYDATGTYDITFEIFSLFSEGFLAPRFPNLYVQDINGNYVLYNPL
-               70        80        90       100       110       120
+>>nar1|TTHN1_01985|hacA Homoaconitase large subunit       (418 aa)
+ initn: 113 init1:  73 opt: 128  Z-score: 116.7  bits: 30.4 E(67887):  7.3
+Smith-Waterman score: 128; 32.4% identity (57.4% similar) in 136 aa overlap (82-214:111-237)
 
-              130       140       150       160       170       180
-ytma|T TTDGFFTETYSYGDSLAVNRPYNSETMLEVDYWFNGQKLASTDGTFSSDFFTTLIQNFIT
-       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-y40i|P TTDGFFTETYSYGDSLAVNRPYNSETMLEVDYWFNGQKLASTDGTFSSDFFTTLIQNFIT
-              130       140       150       160       170       180
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+nar1|T REWGKRHGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
 
-              190       200       210       220       230       240
-ytma|T SVFPYSDVNDVLRPLPGGQTTDIINKIKDYWQQIDRPINDEYVGGWAKLESFDRKLSLLS
-       ::::::::::::::::::::.:::::::::::::::::::::::::::::::::::::::
-y40i|P SVFPYSDVNDVLRPLPGGQTADIINKIKDYWQQIDRPINDEYVGGWAKLESFDRKLSLLS
-              190       200       210       220       230       240
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+nar1|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
 
-              250       260       270       280       290       300
-ytma|T FVLSSGDKIEFPFTVLGFNIENLDDSNSATVRIYNDSSYTDQTISPSSSYIGNLEPATKF
-       ::::.:::::::::::::::::::.::.::::::::::::::::::::::::::::::::
-y40i|P FVLSAGDKIEFPFTVLGFNIENLDSSNNATVRIYNDSSYTDQTISPSSSYIGNLEPATKF
-              250       260       270       280       290       300
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:. . : :..: .: .  : .:  :::.  . :: ::              
+nar1|T IHLL-DGAEAL-TRGERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
 
-              310       320       330       340       350       360
-ytma|T EVLSGLVRISFSGYAVKMLSFAPIINIYYPIGFDETSGLPNDAYTLFQNRLTEFETWLTN
-       :::::::::::::::::::::::::::::::::::::::::::::::::..::.:.::.:
-y40i|P EVLSGLVRISFSGYAVKMLSFAPIINIYYPIGFDETSGLPNDAYTLFQNQITELENWLAN
-              310       320       330       340       350       360
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+nar1|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLRGRR
+             260       270       280       290       300       310 
 
-              370       380       390       400       410       420
-ytma|T SKFSGRVFKYKWVQHVPETRNVWDADYYQITFADSKIPLPFDELRLYLRDWYTYSQLEKQ
-       .:::::::::::::::::::::::::::::::::::::::::::::::::::::.:.:::
-y40i|P AKFSGRVFKYKWVQHVPETRNVWDADYYQITFADSKIPLPFDELRLYLRDWYTYAQIEKQ
-              370       380       390       400       410       420
+>>hc11|TthHC11_19680|no_data 3-isopropylmalate dehydrata  (418 aa)
+ initn: 113 init1:  73 opt: 128  Z-score: 116.7  bits: 30.4 E(67887):  7.3
+Smith-Waterman score: 128; 32.4% identity (57.4% similar) in 136 aa overlap (82-214:111-237)
 
-              430       440       450       460       470       480
-ytma|T IISRVWDENYSVLGQYGKPKDINEVINNDNIIYVLGQNFSGYAAGTARRDAKREFLRRVL
-       :::::::::::::::::::::.::.::::::.:::::.::.::::::::.:::::::.::
-y40i|P IISRVWDENYSVLGQYGKPKDMNEIINNDNIVYVLGQDFSSYAAGTARREAKREFLRKVL
-              430       440       450       460       470       480
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+hc11|T REWGKRHGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
 
-              490       
-ytma|T LEGYLGNYAGTLTYSIN
-       :::::::::::::::::
-y40i|P LEGYLGNYAGTLTYSIN
-              490       
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+hc11|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
 
->>sn11|TthSNM11_00960|no_data carboxypeptidase regulator  (664 aa)
- initn:  72 init1:  44 opt:  99  Z-score: 115.3  bits: 31.2 E(67887):  8.8
-Smith-Waterman score: 99; 21.5% identity (52.7% similar) in 237 aa overlap (1-223:28-254)
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:. . : :..: .: .  : .:  :::.  . :: ::              
+hc11|T IHLL-DGAEAL-TRGERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
 
-                                          10           20        30
-ytma|T                            MAIELPQYAETIETKHFT---TKSEIIRLPYVF
-                                  ..:  :: . :..   .:   : .. .:.  : 
-sn11|T MRKALGLGLLLGALLLAGCGQDTVKPSVTITAPQNGATVNQDTLTVQGTAQDNVRVNRVT
-               10        20        30        40        50        60
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+hc11|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLKGRK
+             260       270       280       290       300       310 
 
-               40              50        60         70        80   
-ytma|T HALGITNKGSVP------VKVYLSESNPNSYVVVDANSYKEVSVS-SNYIKFVYETTGTY
-       . :.  ..  ::      :.  .. . :..  .. ...: ... . :  .. .:. :...
-sn11|T YQLNNGQEQEVPITPGTSVNFAFTLTLPQGQNTITVHAYDQANNKGSATVQVTYDPTAVH
-               70        80        90       100       110       120
+>>5002|TthHB5002_21330|leuC_2 3-isopropylmalate dehydrat  (418 aa)
+ initn: 113 init1:  73 opt: 128  Z-score: 116.7  bits: 30.4 E(67887):  7.3
+Smith-Waterman score: 128; 32.4% identity (57.4% similar) in 136 aa overlap (82-214:111-237)
 
-            90       100       110       120        130        140 
-ytma|T DITFEIFSLFSEGFLAPRFPNLYVQDINGNYVLYNPLTTDGFFTE-TYSYGD-SLAVNRP
-       ...  . : .. : .:    .::    ::: :  .   .:: :.  : . :   : ...:
-sn11|T NLSGTVVSEYAGGPVAGSTLKLYK---NGNLVATTLSGADGSFSFGTLAPGTYRLEAQKP
-              130       140          150       160       170       
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+5002|T REWGKRHGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
 
-             150       160       170       180       190       200 
-ytma|T YNSETMLEVDYWFNGQKLASTDGTFSSDFFTTLIQNFITSVFPYSDVNDVLRPLPGGQTT
-         . ..::    .   ...:.   .. . : .   .   ...  .: :    :: ::  :
-sn11|T GMAGSVLE---GIRVPEMTSVT-LIQRQAFDATATTTPPTLLITQDGNT---PLEGGTFT
-       180          190        200       210       220          230
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+5002|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
 
-               210       220       230       240       250         
-ytma|T DIIN-KIK-DYWQQIDRPINDEYVGGWAKLESFDRKLSLLSFVLSSGDKIEFPFTVLGFN
-       : :  ... :  ..  ::.   ::                                    
-sn11|T DTIPFRVQVDTSKDYVRPMRYIYVALGRTPGSAFVTNSATWTHRIFTDTEDTGNQALSGS
-              240       250       260       270       280       290
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:. . : :..: .: .  : .:  :::.  . :: ::              
+5002|T IHLL-DGAEAL-TRGERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+5002|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLKGRR
+             260       270       280       290       300       310 
+
+>>sn66|TthSNM66_20270|leuC_2 3-isopropylmalate dehydrata  (418 aa)
+ initn: 113 init1:  73 opt: 128  Z-score: 116.7  bits: 30.4 E(67887):  7.3
+Smith-Waterman score: 128; 32.4% identity (57.4% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+sn66|T REWGKRHGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+sn66|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:. . : :..: .: .  : .:  :::.  . :: ::              
+sn66|T IHLL-DGAEAL-TRGERMTLANLTVEAGAKAGLVVPSGEILEMYRVPGWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+sn66|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLKGRR
+             260       270       280       290       300       310 
+
+>>5008|TthHB5008_21310|no_data 3-isopropylmalate dehydra  (418 aa)
+ initn: 113 init1:  73 opt: 128  Z-score: 116.7  bits: 30.4 E(67887):  7.3
+Smith-Waterman score: 128; 32.4% identity (57.4% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+5008|T REWGKRHGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+5008|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:. . : :..: .: .  : .:  :::.  . :: ::              
+5008|T IHLL-DGAEAL-TRGERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+5008|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLKGRR
+             260       270       280       290       300       310 
+
+>>a202|TthAA22_20120|no_data 3-isopropylmalate dehydrata  (418 aa)
+ initn: 113 init1:  73 opt: 128  Z-score: 116.7  bits: 30.4 E(67887):  7.3
+Smith-Waterman score: 128; 32.4% identity (57.4% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+a202|T REWGKRYGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+a202|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:. . : :..: .: .  : .:  :::.  . :: ::              
+a202|T IHLL-DGAEAL-TRGERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+a202|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLRGRR
+             260       270       280       290       300       310 
+
+>>ttj8|TTHA1911|no_data 3-isopropylmalate dehydratase la  (418 aa)
+ initn: 113 init1:  73 opt: 128  Z-score: 116.7  bits: 30.4 E(67887):  7.3
+Smith-Waterman score: 128; 32.4% identity (57.4% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+ttj8|T REWGKRHGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+ttj8|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:. . : :..: .: .  : .:  :::.  . :: ::              
+ttj8|T IHLL-DGAEAL-TRGERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+ttj8|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLKGRK
+             260       270       280       290       300       310 
+
+>>sn66|TthSNM66_20270|no_data 3-isopropylmalate dehydrat  (418 aa)
+ initn: 113 init1:  73 opt: 128  Z-score: 116.7  bits: 30.4 E(67887):  7.3
+Smith-Waterman score: 128; 32.4% identity (57.4% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+sn66|T REWGKRHGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+sn66|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:. . : :..: .: .  : .:  :::.  . :: ::              
+sn66|T IHLL-DGAEAL-TRGERMTLANLTVEAGAKAGLVVPSGEILEMYRVPGWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+sn66|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLKGRR
+             260       270       280       290       300       310 
+
+>>n1x8|K7H19_09695|no_data 3-isopropylmalate dehydratase  (418 aa)
+ initn: 113 init1:  73 opt: 128  Z-score: 116.7  bits: 30.4 E(67887):  7.3
+Smith-Waterman score: 128; 32.4% identity (57.4% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+n1x8|K REWGKRHGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+n1x8|K IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:. . : :..: .: .  : .:  :::.  . :: ::              
+n1x8|K IHLL-DGAEAL-TRGERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+n1x8|K EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLKGRK
+             260       270       280       290       300       310 
+
+>>sn76|TthSNM76_19180|leuC_2 3-isopropylmalate dehydrata  (418 aa)
+ initn: 113 init1:  73 opt: 128  Z-score: 116.7  bits: 30.4 E(67887):  7.3
+Smith-Waterman score: 128; 32.4% identity (57.4% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+sn76|T REWGKRHGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+sn76|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:. . : :..: .: .  : .:  :::.  . :: ::              
+sn76|T IHLL-DGAEAL-TRGERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+sn76|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLKGRR
+             260       270       280       290       300       310 
+
+>>ak01|TthAK1_20380|leuC_2 3-isopropylmalate dehydratase  (418 aa)
+ initn: 113 init1:  73 opt: 128  Z-score: 116.7  bits: 30.4 E(67887):  7.3
+Smith-Waterman score: 128; 32.4% identity (57.4% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+ak01|T REWGKRYGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+ak01|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:. . : :..: .: .  : .:  :::.  . :: ::              
+ak01|T IHLL-DGAEAL-TRGERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+ak01|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLRGRR
+             260       270       280       290       300       310 
+
+>>a202|TthAA22_20120|leuC_2 3-isopropylmalate dehydratas  (418 aa)
+ initn: 113 init1:  73 opt: 128  Z-score: 116.7  bits: 30.4 E(67887):  7.3
+Smith-Waterman score: 128; 32.4% identity (57.4% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+a202|T REWGKRYGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+a202|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:. . : :..: .: .  : .:  :::.  . :: ::              
+a202|T IHLL-DGAEAL-TRGERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+a202|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLRGRR
+             260       270       280       290       300       310 
+
+>>ls81|JCM10941_18920|no_data 3-isopropylmalate dehydrat  (418 aa)
+ initn: 113 init1:  73 opt: 128  Z-score: 116.7  bits: 30.4 E(67887):  7.3
+Smith-Waterman score: 128; 32.4% identity (57.4% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+ls81|J REWGKRHGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+ls81|J IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:. . : :..: .: .  : .:  :::.  . :: ::              
+ls81|J IHLL-DGAEAL-TRGERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+ls81|J EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLKGRK
+             260       270       280       290       300       310 
+
+>>tmy0|TthTMY_13610|no_data hypothetical protein          (539 aa)
+ initn: 108 init1:  71 opt: 129  Z-score: 115.6  bits: 30.6 E(67887):  8.4
+Smith-Waterman score: 160; 30.1% identity (50.3% similar) in 386 aa overlap (9-363:45-384)
+
+                                     10        20         30       
+5002|T                       MNITVPKKLLSDQLSLLERIVPSRSAN-PLYTYLGLYA
+                                     :: .  . :::  :. . . :   ::    
+tmy0|T AWGACADRPYVLETEEGLLGGENLSYEEGVLLVEGRACLER--PGLALEAPWIRYL---E
+           20        30        40        50          60            
+
+        40        50        60        70         80        90      
+5002|T EEGALILFGTNGEVDLEVRLPAEAQSLPRVLVPAQPFFQLVR-SLPGDLVALGLASEP-G
+       ::::..  : .:::.   :: ::..    .:       .:.. :: ..   : :   : :
+tmy0|T EEGAFLAPGLSGEVE-GWRLQAEGMEGKALLR-----VRLAKGSLRAEAERLLLERPPKG
+      70        80         90       100            110       120   
+
+         100        110           120        130        140        
+5002|T QGGQLELSSGRFRT-RLSLAPAE----GYPELLVPEGED-KGAFPLRT-RMPSGELV--K
+       .:  ::  . : :. : ...  :    :.     : ::: . :.     :. .::::   
+tmy0|T EGVFLEAPAYRVRAERATFTGEEARLQGFLATPCPCGEDLRLAMEEALFRVDTGELVGDA
+           130       140       150       160       170       180   
+
+        150       160        170       180       190       200     
+5002|T ALTHVRYAASNEEYR-AIFRGVQLEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPA
+       ::      .  :: :  ..:  .:  ::  . :. . :  :.: ::::::        :.
+tmy0|T ALGLFGLEVPLEEARLNVYRRPSLA-SPFVLSATETGGLTLGLKDLPLPQ--------PG
+           190       200        210       220       230            
+
+         210           220         230         240       250       
+5002|T RSVDEMVRVLK----GADGAEADLALG--EGVLALALEGG--SGVRMALRLMEGEF----
+       . : .  : :     : .. .: : ::  :: :.  .. :  .:::    . :: .    
+tmy0|T EEVGRWSRRLTLMGTGLNSPQAALLLGLKEGSLGAEVQLGYAAGVRA---FGEGVYLAYT
+          240       250       260       270       280          290 
+
+            260          270       280       290       300         
+5002|T PDY-QRVIPQ---EFALKVQVEGEALREAVRRVSVLSDRQNHRVDLLLEEGRILLSAEGD
+       ::  . . :.   ..: ....:: ::   .: . .     . :. : :       .:::.
+tmy0|T PDPPDATTPRLEARYAPSLRLEGLALTPFLRYAET-----GARTGLTL-------GAEGS
+             300       310       320            330                
+
+     310       320        330       340        350       360       
+5002|T YGKGQEEVPAQVEGP-GMAVAYNARYLLEALAP-VGDRAHLGISGPTSPSLIWGDGEGYR
+       :     .. :. :::  .:.. .:   : :: : .:   .: ..:  :  . .:.:    
+tmy0|T Y-----RLEAR-EGPFRLALVPSA---LLALYPGLGHDPYLVLGG--SAEVGYGEGPFRL
+     340             350          360       370         380        
+
+       370                                                         
+5002|T AVVVPLRV                                                    
+                                                                   
+tmy0|T RLLYAGRYAALSPTPAFAYEERAEFQRLQVEAGFAGVSLLYRLENPLGDRVDRVEAAYAA
+      390       400       410       420       430       440        
+
+>>sn11|TthSNM11_01640|no_data biotin--[acetyl-CoA-carbox  (294 aa)
+ initn:  90 init1:  41 opt: 123  Z-score: 115.3  bits: 29.7 E(67887):  8.8
+Smith-Waterman score: 123; 29.8% identity (50.9% similar) in 218 aa overlap (141-345:14-216)
+
+              120       130       140        150       160         
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGE-LVKALTHVRYAASNEEYRAIFRGVQL
+                                     ::: :..::   : :.:.:  : . .:  .
+sn11|T                  MPGLLDLLTESWQSGEALARALGVSRAAVSKEARRLLSEGYPV
+                                10        20        30        40   
+
+     170       180       190       200       210         220       
+5002|T EFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGAD--GAEADLAL
+       : : .:.:          :   :::. :. .. . .:    . :: .  :   : :. . 
+sn11|T EVSRRGYRI---------LPGTPLPHLFHPRGRL-GRPYRYLGRVGSTQDVLRAWAEEGA
+            50                 60         70        80        90   
+
+       230         240        250       260            270         
+5002|T GEGVLALA--LEGGSGVR-MALRLMEGEFPDYQRVI-P----QEFALKVQVEGEALREAV
+        ::.:.::   : : : :    .   ::   .. .. :    . ..:   . : ::::::
+sn11|T PEGALVLAEVQERGRGRRGRPWESRPGESLTFSLLLRPGLPLSALGLLPLLAGLALREAV
+           100       110       120       130       140       150   
+
+     280       290       300       310       320       330         
+5002|T RRVSVLSDRQNHRVDLLLEEGRILLSAEGDYGKGQEEVPAQVEGPGMAVAYNAR--YLLE
+          .: . .  .  :::  .:  : ..  .     :::   . : :. ::.  .   .:.
+sn11|T ---GVGGLKWPN--DLLAPDGGKLAGVLLEARAEGEEVGYALLGVGVNVAWAPEGAAFLQ
+              160         170       180       190       200        
+
+       340       350       360       370                           
+5002|T ALAPVGDRAHLGISGPTSPSLIWGDGEGYRAVVVPLRV                      
+       : ::.. :                                                    
+sn11|T AYAPLSRREVLEGFLLRLEALLPLLQTPEALLERYRQASLTLGRRVRVRTVKGVVEGLAE
+      210       220       230       240       250       260        
+
+>>sn11|TthSNM11_01640|birA bifunctional ligase/repressor  (294 aa)
+ initn:  90 init1:  41 opt: 123  Z-score: 115.3  bits: 29.7 E(67887):  8.8
+Smith-Waterman score: 123; 29.8% identity (50.9% similar) in 218 aa overlap (141-345:14-216)
+
+              120       130       140        150       160         
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGE-LVKALTHVRYAASNEEYRAIFRGVQL
+                                     ::: :..::   : :.:.:  : . .:  .
+sn11|T                  MPGLLDLLTESWQSGEALARALGVSRAAVSKEARRLLSEGYPV
+                                10        20        30        40   
+
+     170       180       190       200       210         220       
+5002|T EFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGAD--GAEADLAL
+       : : .:.:          :   :::. :. .. . .:    . :: .  :   : :. . 
+sn11|T EVSRRGYRI---------LPGTPLPHLFHPRGRL-GRPYRYLGRVGSTQDVLRAWAEEGA
+            50                 60         70        80        90   
+
+       230         240        250       260            270         
+5002|T GEGVLALA--LEGGSGVR-MALRLMEGEFPDYQRVI-P----QEFALKVQVEGEALREAV
+        ::.:.::   : : : :    .   ::   .. .. :    . ..:   . : ::::::
+sn11|T PEGALVLAEVQERGRGRRGRPWESRPGESLTFSLLLRPGLPLSALGLLPLLAGLALREAV
+           100       110       120       130       140       150   
+
+     280       290       300       310       320       330         
+5002|T RRVSVLSDRQNHRVDLLLEEGRILLSAEGDYGKGQEEVPAQVEGPGMAVAYNAR--YLLE
+          .: . .  .  :::  .:  : ..  .     :::   . : :. ::.  .   .:.
+sn11|T ---GVGGLKWPN--DLLAPDGGKLAGVLLEARAEGEEVGYALLGVGVNVAWAPEGAAFLQ
+              160         170       180       190       200        
+
+       340       350       360       370                           
+5002|T ALAPVGDRAHLGISGPTSPSLIWGDGEGYRAVVVPLRV                      
+       : ::.. :                                                    
+sn11|T AYAPLSRREVLEGFLLRLEALLPLLQTPEALLERYRQASLTLGRRVRVRTVKGVVEGLAE
+      210       220       230       240       250       260        
+
+>>a307|TthAA37_20710|no_data 3-isopropylmalate dehydrata  (418 aa)
+ initn: 113 init1:  73 opt: 126  Z-score: 115.1  bits: 30.1 E(67887):  9.1
+Smith-Waterman score: 126; 32.4% identity (56.6% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+a307|T REWGKRYGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+a307|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:.   : :..: .: .  : .:  :::.  . :: ::              
+a307|T IHLL-DGAEALMR-GERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+a307|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLRGRK
+             260       270       280       290       300       310 
+
+>>a220|TthAA220_19810|no_data 3-isopropylmalate dehydrat  (418 aa)
+ initn: 113 init1:  73 opt: 126  Z-score: 115.1  bits: 30.1 E(67887):  9.1
+Smith-Waterman score: 126; 32.4% identity (56.6% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+a220|T REWGKRYGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+a220|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:.   : :..: .: .  : .:  :::.  . :: ::              
+a220|T IHLL-DGAEALMR-GERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+a220|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLRGRK
+             260       270       280       290       300       310 
+
+>>a220|TthAA220_19810|leuC_2 3-isopropylmalate dehydrata  (418 aa)
+ initn: 113 init1:  73 opt: 126  Z-score: 115.1  bits: 30.1 E(67887):  9.1
+Smith-Waterman score: 126; 32.4% identity (56.6% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+a220|T REWGKRYGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+a220|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:.   : :..: .: .  : .:  :::.  . :: ::              
+a220|T IHLL-DGAEALMR-GERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+a220|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLRGRK
+             260       270       280       290       300       310 
+
+>>a307|TthAA37_20710|leuC_2 3-isopropylmalate dehydratas  (418 aa)
+ initn: 113 init1:  73 opt: 126  Z-score: 115.1  bits: 30.1 E(67887):  9.1
+Smith-Waterman score: 126; 32.4% identity (56.6% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+a307|T REWGKRYGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+a307|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:.   : :..: .: .  : .:  :::.  . :: ::              
+a307|T IHLL-DGAEALMR-GERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+a307|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLRGRK
+             260       270       280       290       300       310 
+
+>>a229|TthAA229_19770|leuC_2 3-isopropylmalate dehydrata  (418 aa)
+ initn: 113 init1:  73 opt: 126  Z-score: 115.1  bits: 30.1 E(67887):  9.1
+Smith-Waterman score: 126; 32.4% identity (56.6% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+a229|T REWGKRYGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+a229|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:.   : :..: .: .  : .:  :::.  . :: ::              
+a229|T IHLL-DGAEALMR-GERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+a229|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLRGRK
+             260       270       280       290       300       310 
+
+>>a101|TthAA11_20250|no_data 3-isopropylmalate dehydrata  (418 aa)
+ initn: 113 init1:  73 opt: 126  Z-score: 115.1  bits: 30.1 E(67887):  9.1
+Smith-Waterman score: 126; 32.4% identity (56.6% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+a101|T REWGKRYGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+a101|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:.   : :..: .: .  : .:  :::.  . :: ::              
+a101|T IHLL-DGAEALMR-GERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+a101|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLRGRK
+             260       270       280       290       300       310 
+
+>>a101|TthAA11_20250|leuC_2 3-isopropylmalate dehydratas  (418 aa)
+ initn: 113 init1:  73 opt: 126  Z-score: 115.1  bits: 30.1 E(67887):  9.1
+Smith-Waterman score: 126; 32.4% identity (56.6% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+a101|T REWGKRYGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+a101|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:.   : :..: .: .  : .:  :::.  . :: ::              
+a101|T IHLL-DGAEALMR-GERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+a101|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLRGRK
+             260       270       280       290       300       310 
+
+>>a229|TthAA229_19770|no_data 3-isopropylmalate dehydrat  (418 aa)
+ initn: 113 init1:  73 opt: 126  Z-score: 115.1  bits: 30.1 E(67887):  9.1
+Smith-Waterman score: 126; 32.4% identity (56.6% similar) in 136 aa overlap (82-214:111-237)
+
+              60        70        80        90       100        110
+5002|T DLEVRLPAEAQSLPRVLVPAQPFFQLVRSLPGDLVALGLASEPGQGGQL-ELSSGRFRTR
+                                     ::  :..:  :.    : .  ...:   : 
+a229|T REWGKRYGIRVFDVGRGVCHQVLIEEGLAQPG-WVVVGSDSHSTTYGAVGAFGTGMGATD
+               90       100       110        120       130         
+
+              120       130       140         150       160        
+5002|T LSLAPAEGYPELLVPEGEDKGAFPLRTRMPSGELVK--ALTHVRYAASNEEYRAIFRGVQ
+       ..:: : :   : :::.  : .:  : :.:.:  .:  ::  ::  ...    : . .:.
+a229|T IALAAASGRTWLRVPESV-KVVF--RGRLPKGVTAKDAALEMVRLLTAEG---ATYMAVE
+     140       150        160         170       180          190   
+
+      170       180       190       200       210       220        
+5002|T LEFSPQGFRAVASDGYRLALYDLPLPQGFQAKAVVPARSVDEMVRVLKGADGAEADLALG
+       ...  .: .:.   : :..: .: .  : .:  :::.  . :: ::              
+a229|T IHLL-DGAEALMR-GERMTLANLTVEAGAKAGLVVPSGEILEMYRVPDWLYPDPDARYAK
+            200        210       220       230       240       250 
+
+      230       240       250       260       270       280        
+5002|T EGVLALALEGGSGVRMALRLMEGEFPDYQRVIPQEFALKVQVEGEALREAVRRVSVLSDR
+                                                                   
+a229|T EVEIDLSALTPRVSVPFYVDNVHEVAQVKGKRVDQVFIGTCTNGRIEDLRAAAEVLRGRK
+             260       270       280       290       300       310 
 
 
-67885>>>ytma|TMA_166|no_data hypothetical protein - 361 aa
+  3>>>5002|TthHB5002_00030|eno phosphopyruvate hydratase - 422 aa
 Library: TQ-ALL-Genes.241011.p
   20507781 residues in 67887 sequences
 
-Statistics:  Expectation_n fit: rho(ln(x))= 7.5773+/-0.000754; mu= 7.7103+/- 0.041
- mean_var=64.1861+/-14.713, 0's: 0 Z-trim(108.0): 7  B-trim: 237 in 1/39
- Lambda= 0.160086
- statistics sampled from 7486 (7490) to 7486 sequences
+Statistics:  Expectation_n fit: rho(ln(x))= 7.8475+/-0.000442; mu= 10.0367+/- 0.024
+ mean_var=97.3990+/-22.892, 0's: 0 Z-trim(114.0): 45  B-trim: 1323 in 1/42
+ Lambda= 0.129956
+ statistics sampled from 21282 (21327) to 21282 sequences
 Algorithm: FASTA (3.8 Nov 2011) [optimized]
 Parameters: BL50 matrix (15:-5), open/ext: -10/-2
- ktup: 2, E-join: 1 (0.768), E-opt: 0.2 (0.402), width:  16
- Scan time:  1.080
+ ktup: 2, E-join: 1 (0.691), E-opt: 0.2 (0.308), width:  16
+ Scan time:  1.530
 
 The best scores are:                                      opt bits E(67887)
-ytma|TMA_166|no_data hypothetical protein          ( 361) 2227 521.4 9.8e-148
-ys40|YS40_168|no_data hypothetical protein         ( 361) 2222 520.2 2.2e-147
-y40i|PGDDIFCJ_00175|no_data hypothetical protein   ( 362) 2075 486.3 3.6e-137
-ytma|TMA_076|no_data hypothetical protein          (1760)  117 33.6     3.3
-tts6|Ththe16_0016|pilB type IV pilus assembly ATPa ( 889)  105 31.0      10
+n1x8|K7H19_00015|eno phosphopyruvate hydratase     ( 422) 2692 513.9 2.4e-145
+sn33|TthSNM33_00030|eno enolase                    ( 422) 2692 513.9 2.4e-145
+ttj8|TTHA0002|eno phosphopyruvate hydratase        ( 422) 2692 513.9 2.4e-145
+5002|TthHB5002_00030|eno enolase                   ( 422) 2692 513.9 2.4e-145
+hc11|TthHC11_00030|eno enolase                     ( 422) 2692 513.9 2.4e-145
+5008|TthHB5008_00030|eno enolase                   ( 422) 2692 513.9 2.4e-145
+sn33|TthSNM33_00030|eno phosphopyruvate hydratase  ( 422) 2692 513.9 2.4e-145
+5008|TthHB5008_00030|eno phosphopyruvate hydratase ( 422) 2692 513.9 2.4e-145
+tth7|TT_C1610|eno phosphopyruvate hydratase        ( 422) 2692 513.9 2.4e-145
+ls81|JCM10941_00030|eno enolase                    ( 422) 2692 513.9 2.4e-145
+ls81|JCM10941_00030|eno phosphopyruvate hydratase  ( 422) 2692 513.9 2.4e-145
+5002|TthHB5002_00030|eno phosphopyruvate hydratase ( 422) 2692 513.9 2.4e-145
+hc11|TthHC11_00030|eno phosphopyruvate hydratase   ( 422) 2692 513.9 2.4e-145
+n1x8|K7H19_00015|eno phosphopyruvate hydratase     ( 422) 2692 513.9 2.4e-145
+sn17|TthSNM17_00030|eno phosphopyruvate hydratase  ( 422) 2691 513.7 2.7e-145
+sn66|TthSNM66_00030|eno phosphopyruvate hydratase  ( 422) 2691 513.7 2.7e-145
+sn76|TthSNM76_00030|eno enolase                    ( 422) 2691 513.7 2.7e-145
+sn66|TthSNM66_00030|eno enolase                    ( 422) 2691 513.7 2.7e-145
+sn17|TthSNM17_00030|eno enolase                    ( 422) 2691 513.7 2.7e-145
+sn76|TthSNM76_00030|eno phosphopyruvate hydratase  ( 422) 2691 513.7 2.7e-145
+a101|TthAA11_00030|eno enolase                     ( 422) 2687 513.0 4.6e-145
+ak01|TthAK1_00030|eno phosphopyruvate hydratase    ( 422) 2687 513.0 4.6e-145
+sn11|TthSNM11_00030|eno phosphopyruvate hydratase  ( 422) 2687 513.0 4.6e-145
+ak01|TthAK1_00030|eno enolase                      ( 422) 2687 513.0 4.6e-145
+a101|TthAA11_00030|eno phosphopyruvate hydratase   ( 422) 2687 513.0 4.6e-145
+a307|TthAA37_00030|eno phosphopyruvate hydratase   ( 422) 2687 513.0 4.6e-145
+a220|TthAA220_00030|eno enolase                    ( 422) 2687 513.0 4.6e-145
+sn11|TthSNM11_00030|eno enolase                    ( 422) 2687 513.0 4.6e-145
+a229|TthAA229_00030|eno phosphopyruvate hydratase  ( 422) 2687 513.0 4.6e-145
+a202|TthAA22_00030|eno phosphopyruvate hydratase   ( 422) 2687 513.0 4.6e-145
+a307|TthAA37_00030|eno enolase                     ( 422) 2687 513.0 4.6e-145
+a220|TthAA220_00030|eno phosphopyruvate hydratase  ( 422) 2687 513.0 4.6e-145
+a229|TthAA229_00030|eno enolase                    ( 422) 2687 513.0 4.6e-145
+a202|TthAA22_00030|eno enolase                     ( 422) 2687 513.0 4.6e-145
+nar1|TTHN1_01916|eno Enolase                       ( 422) 2685 512.6  6e-145
+nar1|TTHN1_01916|eno phosphopyruvate hydratase     ( 422) 2685 512.6  6e-145
+5018|TthHB5018_00030|eno enolase                   ( 422) 2684 512.4 6.8e-145
+5018|TthHB5018_00030|eno phosphopyruvate hydratase ( 422) 2684 512.4 6.8e-145
+tmy0|TthTMY_00030|eno enolase                      ( 422) 2668 509.4 5.4e-144
+tmy0|TthTMY_00030|eno phosphopyruvate hydratase    ( 422) 2668 509.4 5.4e-144
+tts6|Ththe16_0003|eno phosphopyruvate hydratase    ( 422) 2667 509.2 6.2e-144
+ttl8|TtJL18_0003|eno phosphopyruvate hydratase     ( 422) 2650 506.0 5.6e-143
+toj2|Theos_0003|eno phosphopyruvate hydratase      ( 422) 2424 463.7 3.2e-130
+nar1|TTHN1_01781|no_data peptidoglycan endopeptida ( 211)  115 30.8     3.3
+nar1|TTHN1_01781|cwlS D-gamma-glutamyl-meso-diamin ( 211)  115 30.8     3.3
+toj2|Theos_2115|ald alanine dehydrogenase          ( 369)  112 30.2     8.6
 
->>ytma|TMA_166|no_data hypothetical protein               (361 aa)
- initn: 2227 init1: 2227 opt: 2227  Z-score: 2771.5  bits: 521.4 E(67887): 9.8e-148
-Smith-Waterman score: 2227; 100.0% identity (100.0% similar) in 361 aa overlap (1-361:1-361)
-
-               10        20        30        40        50        60
-ytma|T MPKEYEHCKESYLKKGVSEKKAKAICAGMYYNRHGITVNEAKKRGLKSMKLLYLGRTKEA
-       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ytma|T MPKEYEHCKESYLKKGVSEKKAKAICAGMYYNRHGITVNEAKKRGLKSMKLLYLGRTKEA
-               10        20        30        40        50        60
-
-               70        80        90       100       110       120
-ytma|T LKSLILANGEELKDFVIVKVPDSLRKNEVVKSIYPKVENEEYVYVAVHKSVVDVTVEGKV
-       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ytma|T LKSLILANGEELKDFVIVKVPDSLRKNEVVKSIYPKVENEEYVYVAVHKSVVDVTVEGKV
-               70        80        90       100       110       120
-
-              130       140       150       160       170       180
-ytma|T VLSLEKLLSKVEENETSKQNEDNVAHVEAGKEVVKEGKLEKSSGESGQTGSLKEEIREEV
-       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ytma|T VLSLEKLLSKVEENETSKQNEDNVAHVEAGKEVVKEGKLEKSSGESGQTGSLKEEIREEV
-              130       140       150       160       170       180
-
-              190       200       210       220       230       240
-ytma|T VVTKSKHSVEEDDSNVPFLDDVIEKLKRKNILTKEERAALVNALRVIEEFMQDKLTDEQK
-       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ytma|T VVTKSKHSVEEDDSNVPFLDDVIEKLKRKNILTKEERAALVNALRVIEEFMQDKLTDEQK
-              190       200       210       220       230       240
-
-              250       260       270       280       290       300
-ytma|T TNLSTAISDVDMALSEESNKSEDKSEDKALEATSATVEALEKEDLESEVVPVTKSLSEHE
-       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ytma|T TNLSTAISDVDMALSEESNKSEDKSEDKALEATSATVEALEKEDLESEVVPVTKSLSEHE
-              250       260       270       280       290       300
-
-              310       320       330       340       350       360
-ytma|T KFLSLKSIDGTNPVFESKHDANRYARLYNLHNKDKKAVVLPASMNDKRKYGTKAKYVVVF
-       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ytma|T KFLSLKSIDGTNPVFESKHDANRYARLYNLHNKDKKAVVLPASMNDKRKYGTKAKYVVVF
-              310       320       330       340       350       360
-
-        
-ytma|T E
-       :
-ytma|T E
-        
-
->>ys40|YS40_168|no_data hypothetical protein              (361 aa)
- initn: 2222 init1: 2222 opt: 2222  Z-score: 2765.3  bits: 520.2 E(67887): 2.2e-147
-Smith-Waterman score: 2222; 99.7% identity (100.0% similar) in 361 aa overlap (1-361:1-361)
+>>n1x8|K7H19_00015|eno phosphopyruvate hydratase          (422 aa)
+ initn: 2692 init1: 2692 opt: 2692  Z-score: 2728.6  bits: 513.9 E(67887): 2.4e-145
+Smith-Waterman score: 2692; 100.0% identity (100.0% similar) in 422 aa overlap (1-422:1-422)
 
                10        20        30        40        50        60
-ytma|T MPKEYEHCKESYLKKGVSEKKAKAICAGMYYNRHGITVNEAKKRGLKSMKLLYLGRTKEA
+5002|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
        ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ys40|Y MPKEYEHCKESYLKKGVSEKKAKAICAGMYYNRHGITVNEAKKRGLKSMKLLYLGRTKEA
+n1x8|K MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
                10        20        30        40        50        60
 
                70        80        90       100       110       120
-ytma|T LKSLILANGEELKDFVIVKVPDSLRKNEVVKSIYPKVENEEYVYVAVHKSVVDVTVEGKV
+5002|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
        ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ys40|Y LKSLILANGEELKDFVIVKVPDSLRKNEVVKSIYPKVENEEYVYVAVHKSVVDVTVEGKV
+n1x8|K KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
                70        80        90       100       110       120
 
               130       140       150       160       170       180
-ytma|T VLSLEKLLSKVEENETSKQNEDNVAHVEAGKEVVKEGKLEKSSGESGQTGSLKEEIREEV
+5002|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
        ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ys40|Y VLSLEKLLSKVEENETSKQNEDNVAHVEAGKEVVKEGKLEKSSGESGQTGSLKEEIREEV
+n1x8|K AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
               130       140       150       160       170       180
 
               190       200       210       220       230       240
-ytma|T VVTKSKHSVEEDDSNVPFLDDVIEKLKRKNILTKEERAALVNALRVIEEFMQDKLTDEQK
+5002|T GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL
        ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ys40|Y VVTKSKHSVEEDDSNVPFLDDVIEKLKRKNILTKEERAALVNALRVIEEFMQDKLTDEQK
+n1x8|K GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL
               190       200       210       220       230       240
 
               250       260       270       280       290       300
-ytma|T TNLSTAISDVDMALSEESNKSEDKSEDKALEATSATVEALEKEDLESEVVPVTKSLSEHE
+5002|T DPATSELYRDGKYHLEGEGKVLSSEEMVAFWEAWVEKYPIRSIEDGLAEDDWEGWRLLTE
        ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ys40|Y TNLSTAISDVDMALSEESNKSEDKSEDKALEATSATVEALEKEDLESEVVPVTKSLSEHE
+n1x8|K DPATSELYRDGKYHLEGEGKVLSSEEMVAFWEAWVEKYPIRSIEDGLAEDDWEGWRLLTE
               250       260       270       280       290       300
 
               310       320       330       340       350       360
-ytma|T KFLSLKSIDGTNPVFESKHDANRYARLYNLHNKDKKAVVLPASMNDKRKYGTKAKYVVVF
-       ::::::::::::::::::::::::::::::::.:::::::::::::::::::::::::::
-ys40|Y KFLSLKSIDGTNPVFESKHDANRYARLYNLHNEDKKAVVLPASMNDKRKYGTKAKYVVVF
+5002|T RLGGKVQLVGDDLFVTNPERLRAGIERGVANAILVKVNQIGTLSETLEAIRLAQRSGYRA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+n1x8|K RLGGKVQLVGDDLFVTNPERLRAGIERGVANAILVKVNQIGTLSETLEAIRLAQRSGYRA
               310       320       330       340       350       360
 
-        
-ytma|T E
-       :
-ys40|Y E
-        
+              370       380       390       400       410       420
+5002|T VISHRSGETEDSFIADLAVAVNAGQIKTGSLSRSDRLAKYNQLLRIEEELGRAARFLGYA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+n1x8|K VISHRSGETEDSFIADLAVAVNAGQIKTGSLSRSDRLAKYNQLLRIEEELGRAARFLGYA
+              370       380       390       400       410       420
 
->>y40i|PGDDIFCJ_00175|no_data hypothetical protein        (362 aa)
- initn: 1158 init1: 1158 opt: 2075  Z-score: 2581.7  bits: 486.3 E(67887): 3.6e-137
-Smith-Waterman score: 2075; 92.5% identity (97.8% similar) in 362 aa overlap (1-361:1-362)
-
-               10        20        30        40        50        60
-ytma|T MPKEYEHCKESYLKKGVSEKKAKAICAGMYYNRHGITVNEAKKRGLKSMKLLYLGRTKEA
-       ::::::::::::::::::::.:::::::::::::::::::::::::::::::::::::::
-y40i|P MPKEYEHCKESYLKKGVSEKRAKAICAGMYYNRHGITVNEAKKRGLKSMKLLYLGRTKEA
-               10        20        30        40        50        60
-
-               70        80        90       100       110       120
-ytma|T LKSLILANGEELKDFVIVKVPDSLRKNEVVKSIYPKVENEEYVYVAVHKSVVDVTVEGKV
-       ::::::::::::::::::::::::::::::::.:::::::::::::::::::::::::::
-y40i|P LKSLILANGEELKDFVIVKVPDSLRKNEVVKSLYPKVENEEYVYVAVHKSVVDVTVEGKV
-               70        80        90       100       110       120
-
-              130       140       150       160       170       180
-ytma|T VLSLEKLLSKVEENETSKQNEDNVAHVEAGKEVVKEGKLEKSSGESGQTGSLKEEIREEV
-       :: ::::::::::::::::::::::::::::::::.::::::::::::::::::::.:::
-y40i|P VLCLEKLLSKVEENETSKQNEDNVAHVEAGKEVVKDGKLEKSSGESGQTGSLKEEIHEEV
-              130       140       150       160       170       180
-
-              190        200       210       220       230         
-ytma|T VVTKSKHSVEE-DDSNVPFLDDVIEKLKRKNILTKEERAALVNALRVIEEFMQDKLTDEQ
-       :::::::: :: :::::: ::::.::::.:::::.:::::::::::::::::::::::::
-y40i|P VVTKSKHSEEEKDDSNVPTLDDVVEKLKKKNILTNEERAALVNALRVIEEFMQDKLTDEQ
-              190       200       210       220       230       240
-
-     240       250       260       270       280       290         
-ytma|T KTNLSTAISDVDMALSEESNKSEDKSEDKALEATSATVEALEKEDLESEVVPVTKSLSEH
-       ..::::::::::::::::..::: .::.:::::::.::::.:::::: :::::::::::.
-y40i|P RANLSTAISDVDMALSEEGDKSEAESEEKALEATSSTVEAVEKEDLEPEVVPVTKSLSEY
-              250       260       270       280       290       300
-
-     300       310       320       330       340       350         
-ytma|T EKFLSLKSIDGTNPVFESKHDANRYARLYNLHNKDKKAVVLPASMNDKRKYGTKAKYVVV
-       ::::::::.:: :::::::::::::::::::::. :::::::::::.:::::::::::::
-y40i|P EKFLSLKSVDGKNPVFESKHDANRYARLYNLHNEGKKAVVLPASMNEKRKYGTKAKYVVV
-              310       320       330       340       350       360
-
-     360 
-ytma|T FE
+         
+5002|T AF
        ::
-y40i|P FE
+n1x8|K AF
          
 
->>ytma|TMA_076|no_data hypothetical protein               (1760 aa)
- initn:  90 init1:  54 opt: 117  Z-score: 122.8  bits: 33.6 E(67887):  3.3
-Smith-Waterman score: 120; 25.5% identity (58.7% similar) in 247 aa overlap (82-306:912-1147)
-
-              60        70        80        90        100       110
-ytma|T LYLGRTKEALKSLILANGEELKDFVIVKVPDSLRKNEVVKSIYPKVE-NEEYVYVAVHKS
-                                     :..  : :...  : .  .:: :... ...
-ytma|T VPYVEFENYEDAVLNILKTKVPKENLLYLFDDFSPN-VIHTQTPPISFDEEEVFTTGEEK
-             890       900       910        920       930       940
-
-                  120          130         140       150           
-ytma|T ----VVDVTVEGKVVL---SLEKLLSKVEEN--ETSKQNEDNVAHVEAGKEV-VKE-GKL
-           . :: .: .: :   : ...  .  ::  ::  .::. . .:.  ::. .:. :. 
-ytma|T QPSFIEDVPTEPEVPLEKVSYKEVTFEDLENLEETLDENESLTLYVDEDKEIEIKKVGNR
-              950       960       970       980       990      1000
-
-     160         170             180       190       200       210 
-ytma|T EKSSGESGQT--GSLK-EEIRE-----EVVVTKSKHSVEEDDSNVPFLDDVIEKLKRKNI
-          . .::.   :.:. :....     ...: .. ... :  :.  .:.. ::.:..   
-ytma|T LFCTCRSGNKTLGTLQLEDLKKLGKDFNTAVDEAFETISEATSQDKLLNSSIEELNKA--
-             1010      1020      1030      1040      1050          
-
-             220       230       240       250       260       270 
-ytma|T LTKEERAALVNALRVIEEFMQDKLTDEQKTNLSTAISDVDMALSEESNKSEDKSEDKALE
-         ::.. .  .: . :..  ..::..: :..  .  :.    .:: .  .:. ::     
-ytma|T -IKEKKKSKKKAEKKIKD-KKEKLSEETKAEGIVEPSSQTEEVSEVAPLTEEISEP----
-      1060      1070       1080      1090      1100      1110      
-
-             280         290       300       310       320         
-ytma|T ATSATVEALEK--EDLESEVVPVTKSLSEHEKFLSLKSIDGTNPVFESKHDANRYARLYN
-         :.:.:..:.  :  .::: :  :. .. .:  : :                       
-ytma|T --SSTTEVFEEASETKKSEVKPDKKTSAKTKKVPSKKQKEKSSERAKEKTEEGIKEEVKE
-             1120      1130      1140      1150      1160      1170
-
-     330       340       350       360                             
-ytma|T LHNKDKKAVVLPASMNDKRKYGTKAKYVVVFE                            
-                                                                   
-ytma|T NLEQQASEIVLEEEKKESVEKIETNLSAEKEEYYSNLINLFSSPSTISYVAEAIQQAVDF
-             1180      1190      1200      1210      1220      1230
-
->>tts6|Ththe16_0016|pilB type IV pilus assembly ATPase P  (889 aa)
- initn:  53 init1:  53 opt: 105  Z-score: 114.3  bits: 31.0 E(67887):   10
-Smith-Waterman score: 105; 22.2% identity (51.7% similar) in 180 aa overlap (108-285:455-623)
-
-        80        90       100       110       120       130       
-ytma|T VKVPDSLRKNEVVKSIYPKVENEEYVYVAVHKSVVDVTVEGKVVLSLEKLLSKVEENETS
-                                     :. .  :..:. ..  .:.. ::.: .: .
-tts6|T GNRLVLLMKDPRNILALDDVRLALKRKGLNHEVAPAVATEAAITKLIERFYSKAELSEIA
-          430       440       450       460       470       480    
-
-       140       150       160       170       180       190       
-ytma|T KQNEDNVAHVEAGKEVVKEGKLEKSSGESGQTGSLKEEIREEVVVTKSKHSVEEDDSNVP
-       :.         : :.::.:.       ::.    .:. :::  .   :   .:  ...: 
-tts6|T KE--------FAQKQVVEEAPSPLELDESAAQKFVKQVIREAFLQDASDIHIEPRQNDVQ
-                  490       500       510       520       530      
-
-       200       210       220         230       240       250     
-ytma|T FLDDVIEKLKRKNILTKEERAALVNALRVIE--EFMQDKLTDEQKTNLSTAISDVDMALS
-           .   :.  . : :    :........   .. . .: .. ..    .  :::. ::
-tts6|T VRLRIDGALRPYSTLPKGALNAVISVVKIMGGLNIAEKRLPQDGRVRYREGAIDVDLRLS
-        540       550       560       570       580       590      
-
-         260       270       280       290       300       310     
-ytma|T EESNKSEDKSEDKALEATSATVEALEKEDLESEVVPVTKSLSEHEKFLSLKSIDGTNPVF
-          .   .:.  . :. .:   .  : :::                              
-tts6|T TLPTVYGEKAVMRLLKKAS---DIPEIEDLGFAPGVFERFKEVISKPYGIFLITGPTGSG
-        600       610          620       630       640       650   
-
-
-67886>>>ytma|TMA_167|no_data hypothetical protein - 189 aa
-Library: TQ-ALL-Genes.241011.p
-  20507781 residues in 67887 sequences
-
-Statistics:  Expectation_n fit: rho(ln(x))= 6.5458+/-0.000728; mu= 7.6977+/- 0.038
- mean_var=46.8555+/-10.691, 0's: 0 Z-trim(105.3): 7  B-trim: 2 in 1/38
- Lambda= 0.187367
- statistics sampled from 5300 (5303) to 5300 sequences
-Algorithm: FASTA (3.8 Nov 2011) [optimized]
-Parameters: BL50 matrix (15:-5), open/ext: -10/-2
- ktup: 2, E-join: 1 (0.768), E-opt: 0.2 (0.402), width:  16
- Scan time:  0.650
-
-The best scores are:                                      opt bits E(67887)
-ytma|TMA_167|no_data hypothetical protein          ( 189) 1218 335.2 3.1e-92
-ys40|YS40_169|no_data hypothetical protein         ( 189) 1209 332.7 1.7e-91
-y40i|PGDDIFCJ_00176|no_data hypothetical protein   ( 167)  925 256.0 1.9e-68
-
->>ytma|TMA_167|no_data hypothetical protein               (189 aa)
- initn: 1218 init1: 1218 opt: 1218  Z-score: 1775.1  bits: 335.2 E(67887): 3.1e-92
-Smith-Waterman score: 1218; 100.0% identity (100.0% similar) in 189 aa overlap (1-189:1-189)
+>>sn33|TthSNM33_00030|eno enolase                         (422 aa)
+ initn: 2692 init1: 2692 opt: 2692  Z-score: 2728.6  bits: 513.9 E(67887): 2.4e-145
+Smith-Waterman score: 2692; 100.0% identity (100.0% similar) in 422 aa overlap (1-422:1-422)
 
                10        20        30        40        50        60
-ytma|T MIQFKKTKQGLFWSCFLCYNSNMTEKELNQVIFKKFEELRDAIKTEFYNSIDEKYVEQIR
+5002|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
        ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ytma|T MIQFKKTKQGLFWSCFLCYNSNMTEKELNQVIFKKFEELRDAIKTEFYNSIDEKYVEQIR
+sn33|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
                10        20        30        40        50        60
 
                70        80        90       100       110       120
-ytma|T TNKTFYNSEELANLVSTELKNQFEQIFQEAENEFKSFKFYLFDDAVGREDLNFNPGLCKT
+5002|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
        ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ytma|T TNKTFYNSEELANLVSTELKNQFEQIFQEAENEFKSFKFYLFDDAVGREDLNFNPGLCKT
+sn33|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
                70        80        90       100       110       120
 
               130       140       150       160       170       180
-ytma|T SKVHIILEGQFKTVDCGFLVLENSQILNKFIESFIRRTFGALIVRRLNEISAKIVEENAI
+5002|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
        ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ytma|T SKVHIILEGQFKTVDCGFLVLENSQILNKFIESFIRRTFGALIVRRLNEISAKIVEENAI
+sn33|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
               130       140       150       160       170       180
 
-                
-ytma|T ISTDSYDSA
-       :::::::::
-ytma|T ISTDSYDSA
-                
+              190       200       210       220       230       240
+5002|T GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sn33|T GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL
+              190       200       210       220       230       240
 
->>ys40|YS40_169|no_data hypothetical protein              (189 aa)
- initn: 1209 init1: 1209 opt: 1209  Z-score: 1762.0  bits: 332.7 E(67887): 1.7e-91
-Smith-Waterman score: 1209; 98.9% identity (100.0% similar) in 189 aa overlap (1-189:1-189)
+              250       260       270       280       290       300
+5002|T DPATSELYRDGKYHLEGEGKVLSSEEMVAFWEAWVEKYPIRSIEDGLAEDDWEGWRLLTE
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sn33|T DPATSELYRDGKYHLEGEGKVLSSEEMVAFWEAWVEKYPIRSIEDGLAEDDWEGWRLLTE
+              250       260       270       280       290       300
+
+              310       320       330       340       350       360
+5002|T RLGGKVQLVGDDLFVTNPERLRAGIERGVANAILVKVNQIGTLSETLEAIRLAQRSGYRA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sn33|T RLGGKVQLVGDDLFVTNPERLRAGIERGVANAILVKVNQIGTLSETLEAIRLAQRSGYRA
+              310       320       330       340       350       360
+
+              370       380       390       400       410       420
+5002|T VISHRSGETEDSFIADLAVAVNAGQIKTGSLSRSDRLAKYNQLLRIEEELGRAARFLGYA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sn33|T VISHRSGETEDSFIADLAVAVNAGQIKTGSLSRSDRLAKYNQLLRIEEELGRAARFLGYA
+              370       380       390       400       410       420
+
+         
+5002|T AF
+       ::
+sn33|T AF
+         
+
+>>ttj8|TTHA0002|eno phosphopyruvate hydratase             (422 aa)
+ initn: 2692 init1: 2692 opt: 2692  Z-score: 2728.6  bits: 513.9 E(67887): 2.4e-145
+Smith-Waterman score: 2692; 100.0% identity (100.0% similar) in 422 aa overlap (1-422:1-422)
 
                10        20        30        40        50        60
-ytma|T MIQFKKTKQGLFWSCFLCYNSNMTEKELNQVIFKKFEELRDAIKTEFYNSIDEKYVEQIR
-       :::::::::::::::::::::::::.::::::::::::::::::::::::::::::::::
-ys40|Y MIQFKKTKQGLFWSCFLCYNSNMTEQELNQVIFKKFEELRDAIKTEFYNSIDEKYVEQIR
+5002|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ttj8|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
                10        20        30        40        50        60
 
                70        80        90       100       110       120
-ytma|T TNKTFYNSEELANLVSTELKNQFEQIFQEAENEFKSFKFYLFDDAVGREDLNFNPGLCKT
-       :::::::::::::::::.::::::::::::::::::::::::::::::::::::::::::
-ys40|Y TNKTFYNSEELANLVSTKLKNQFEQIFQEAENEFKSFKFYLFDDAVGREDLNFNPGLCKT
+5002|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ttj8|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
                70        80        90       100       110       120
 
               130       140       150       160       170       180
-ytma|T SKVHIILEGQFKTVDCGFLVLENSQILNKFIESFIRRTFGALIVRRLNEISAKIVEENAI
+5002|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
        ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ys40|Y SKVHIILEGQFKTVDCGFLVLENSQILNKFIESFIRRTFGALIVRRLNEISAKIVEENAI
+ttj8|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
               130       140       150       160       170       180
 
-                
-ytma|T ISTDSYDSA
-       :::::::::
-ys40|Y ISTDSYDSA
-                
+              190       200       210       220       230       240
+5002|T GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ttj8|T GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL
+              190       200       210       220       230       240
 
->>y40i|PGDDIFCJ_00176|no_data hypothetical protein        (167 aa)
- initn: 925 init1: 925 opt: 925  Z-score: 1348.2  bits: 256.0 E(67887): 1.9e-68
-Smith-Waterman score: 925; 84.4% identity (97.6% similar) in 167 aa overlap (23-189:1-167)
+              250       260       270       280       290       300
+5002|T DPATSELYRDGKYHLEGEGKVLSSEEMVAFWEAWVEKYPIRSIEDGLAEDDWEGWRLLTE
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ttj8|T DPATSELYRDGKYHLEGEGKVLSSEEMVAFWEAWVEKYPIRSIEDGLAEDDWEGWRLLTE
+              250       260       270       280       290       300
+
+              310       320       330       340       350       360
+5002|T RLGGKVQLVGDDLFVTNPERLRAGIERGVANAILVKVNQIGTLSETLEAIRLAQRSGYRA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ttj8|T RLGGKVQLVGDDLFVTNPERLRAGIERGVANAILVKVNQIGTLSETLEAIRLAQRSGYRA
+              310       320       330       340       350       360
+
+              370       380       390       400       410       420
+5002|T VISHRSGETEDSFIADLAVAVNAGQIKTGSLSRSDRLAKYNQLLRIEEELGRAARFLGYA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ttj8|T VISHRSGETEDSFIADLAVAVNAGQIKTGSLSRSDRLAKYNQLLRIEEELGRAARFLGYA
+              370       380       390       400       410       420
+
+         
+5002|T AF
+       ::
+ttj8|T AF
+         
+
+>>5002|TthHB5002_00030|eno enolase                        (422 aa)
+ initn: 2692 init1: 2692 opt: 2692  Z-score: 2728.6  bits: 513.9 E(67887): 2.4e-145
+Smith-Waterman score: 2692; 100.0% identity (100.0% similar) in 422 aa overlap (1-422:1-422)
 
                10        20        30        40        50        60
-ytma|T MIQFKKTKQGLFWSCFLCYNSNMTEKELNQVIFKKFEELRDAIKTEFYNSIDEKYVEQIR
-                             :::.:::::::.:::...:.::.::::::: :::::.:
-y40i|P                       MTEQELNQVIFQKFEKIKDTIKNEFYNSIDSKYVEQVR
-                                     10        20        30        
+5002|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5002|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
+               10        20        30        40        50        60
 
                70        80        90       100       110       120
-ytma|T TNKTFYNSEELANLVSTELKNQFEQIFQEAENEFKSFKFYLFDDAVGREDLNFNPGLCKT
-       :::::::::::::::.:::::::::.::::::::::::::::::::::.::.:. :.:::
-y40i|P TNKTFYNSEELANLVGTELKNQFEQVFQEAENEFKSFKFYLFDDAVGRKDLGFESGFCKT
-       40        50        60        70        80        90        
+5002|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5002|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
+               70        80        90       100       110       120
 
               130       140       150       160       170       180
-ytma|T SKVHIILEGQFKTVDCGFLVLENSQILNKFIESFIRRTFGALIVRRLNEISAKIVEENAI
-       ::::::::::::::::.:::::: ::.:::.::::.:::.::::.:::::::::.:::::
-y40i|P SKVHIILEGQFKTVDCSFLVLENFQIFNKFVESFIKRTFSALIVKRLNEISAKIIEENAI
-      100       110       120       130       140       150        
-
-                
-ytma|T ISTDSYDSA
-       ::::.: ::
-y40i|P ISTDNYGSA
-      160       
-
-
-67887>>>ytma|TMA_168|no_data hypothetical protein - 87 aa
-Library: TQ-ALL-Genes.241011.p
-  20507781 residues in 67887 sequences
-
-Statistics:  Expectation_n fit: rho(ln(x))= 5.8427+/-0.000734; mu= 6.3285+/- 0.039
- mean_var=40.3353+/- 9.115, 0's: 0 Z-trim(107.6): 3  B-trim: 3 in 1/38
- Lambda= 0.201944
- statistics sampled from 7114 (7117) to 7114 sequences
-Algorithm: FASTA (3.8 Nov 2011) [optimized]
-Parameters: BL50 matrix (15:-5), open/ext: -10/-2
- ktup: 2, E-join: 1 (0.768), E-opt: 0.2 (0.402), width:  16
- Scan time:  0.440
-
-The best scores are:                                      opt bits E(67887)
-ys40|YS40_170|no_data hypothetical protein         (  87)  568 171.1 1.6e-43
-ytma|TMA_168|no_data hypothetical protein          (  87)  568 171.1 1.6e-43
-y40i|PGDDIFCJ_00177|no_data hypothetical protein   (  87)  562 169.3 5.5e-43
-
->>ys40|YS40_170|no_data hypothetical protein              (87 aa)
- initn: 568 init1: 568 opt: 568  Z-score: 900.4  bits: 171.1 E(67887): 1.6e-43
-Smith-Waterman score: 568; 100.0% identity (100.0% similar) in 87 aa overlap (1-87:1-87)
-
-               10        20        30        40        50        60
-ytma|T MIQLKLLDQDFEVEVDDRYLILYSNDDFCSSPKTMRFVGFEIYTFDNVFCGIKIRLEKLD
+5002|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
        ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ys40|Y MIQLKLLDQDFEVEVDDRYLILYSNDDFCSSPKTMRFVGFEIYTFDNVFCGIKIRLEKLD
-               10        20        30        40        50        60
+5002|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
+              130       140       150       160       170       180
 
-               70        80       
-ytma|T DRKLESIILVDEYNYEIDLSSFVSSYI
-       :::::::::::::::::::::::::::
-ys40|Y DRKLESIILVDEYNYEIDLSSFVSSYI
-               70        80       
-
->>ytma|TMA_168|no_data hypothetical protein               (87 aa)
- initn: 568 init1: 568 opt: 568  Z-score: 900.4  bits: 171.1 E(67887): 1.6e-43
-Smith-Waterman score: 568; 100.0% identity (100.0% similar) in 87 aa overlap (1-87:1-87)
-
-               10        20        30        40        50        60
-ytma|T MIQLKLLDQDFEVEVDDRYLILYSNDDFCSSPKTMRFVGFEIYTFDNVFCGIKIRLEKLD
+              190       200       210       220       230       240
+5002|T GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL
        ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-ytma|T MIQLKLLDQDFEVEVDDRYLILYSNDDFCSSPKTMRFVGFEIYTFDNVFCGIKIRLEKLD
+5002|T GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL
+              190       200       210       220       230       240
+
+              250       260       270       280       290       300
+5002|T DPATSELYRDGKYHLEGEGKVLSSEEMVAFWEAWVEKYPIRSIEDGLAEDDWEGWRLLTE
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5002|T DPATSELYRDGKYHLEGEGKVLSSEEMVAFWEAWVEKYPIRSIEDGLAEDDWEGWRLLTE
+              250       260       270       280       290       300
+
+              310       320       330       340       350       360
+5002|T RLGGKVQLVGDDLFVTNPERLRAGIERGVANAILVKVNQIGTLSETLEAIRLAQRSGYRA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5002|T RLGGKVQLVGDDLFVTNPERLRAGIERGVANAILVKVNQIGTLSETLEAIRLAQRSGYRA
+              310       320       330       340       350       360
+
+              370       380       390       400       410       420
+5002|T VISHRSGETEDSFIADLAVAVNAGQIKTGSLSRSDRLAKYNQLLRIEEELGRAARFLGYA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5002|T VISHRSGETEDSFIADLAVAVNAGQIKTGSLSRSDRLAKYNQLLRIEEELGRAARFLGYA
+              370       380       390       400       410       420
+
+         
+5002|T AF
+       ::
+5002|T AF
+         
+
+>>hc11|TthHC11_00030|eno enolase                          (422 aa)
+ initn: 2692 init1: 2692 opt: 2692  Z-score: 2728.6  bits: 513.9 E(67887): 2.4e-145
+Smith-Waterman score: 2692; 100.0% identity (100.0% similar) in 422 aa overlap (1-422:1-422)
+
+               10        20        30        40        50        60
+5002|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+hc11|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
                10        20        30        40        50        60
 
-               70        80       
-ytma|T DRKLESIILVDEYNYEIDLSSFVSSYI
-       :::::::::::::::::::::::::::
-ytma|T DRKLESIILVDEYNYEIDLSSFVSSYI
-               70        80       
+               70        80        90       100       110       120
+5002|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+hc11|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
+               70        80        90       100       110       120
 
->>y40i|PGDDIFCJ_00177|no_data hypothetical protein        (87 aa)
- initn: 562 init1: 562 opt: 562  Z-score: 891.0  bits: 169.3 E(67887): 5.5e-43
-Smith-Waterman score: 562; 97.7% identity (100.0% similar) in 87 aa overlap (1-87:1-87)
+              130       140       150       160       170       180
+5002|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+hc11|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
+              130       140       150       160       170       180
+
+              190       200       210       220       230       240
+5002|T GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+hc11|T GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL
+              190       200       210       220       230       240
+
+              250       260       270       280       290       300
+5002|T DPATSELYRDGKYHLEGEGKVLSSEEMVAFWEAWVEKYPIRSIEDGLAEDDWEGWRLLTE
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+hc11|T DPATSELYRDGKYHLEGEGKVLSSEEMVAFWEAWVEKYPIRSIEDGLAEDDWEGWRLLTE
+              250       260       270       280       290       300
+
+              310       320       330       340       350       360
+5002|T RLGGKVQLVGDDLFVTNPERLRAGIERGVANAILVKVNQIGTLSETLEAIRLAQRSGYRA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+hc11|T RLGGKVQLVGDDLFVTNPERLRAGIERGVANAILVKVNQIGTLSETLEAIRLAQRSGYRA
+              310       320       330       340       350       360
+
+              370       380       390       400       410       420
+5002|T VISHRSGETEDSFIADLAVAVNAGQIKTGSLSRSDRLAKYNQLLRIEEELGRAARFLGYA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+hc11|T VISHRSGETEDSFIADLAVAVNAGQIKTGSLSRSDRLAKYNQLLRIEEELGRAARFLGYA
+              370       380       390       400       410       420
+
+         
+5002|T AF
+       ::
+hc11|T AF
+         
+
+>>5008|TthHB5008_00030|eno enolase                        (422 aa)
+ initn: 2692 init1: 2692 opt: 2692  Z-score: 2728.6  bits: 513.9 E(67887): 2.4e-145
+Smith-Waterman score: 2692; 100.0% identity (100.0% similar) in 422 aa overlap (1-422:1-422)
 
                10        20        30        40        50        60
-ytma|T MIQLKLLDQDFEVEVDDRYLILYSNDDFCSSPKTMRFVGFEIYTFDNVFCGIKIRLEKLD
-       :.::::::::::::::::::::::::::::::::.:::::::::::::::::::::::::
-y40i|P MVQLKLLDQDFEVEVDDRYLILYSNDDFCSSPKTIRFVGFEIYTFDNVFCGIKIRLEKLD
+5002|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5008|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
                10        20        30        40        50        60
 
-               70        80       
-ytma|T DRKLESIILVDEYNYEIDLSSFVSSYI
-       :::::::::::::::::::::::::::
-y40i|P DRKLESIILVDEYNYEIDLSSFVSSYI
-               70        80       
+               70        80        90       100       110       120
+5002|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5008|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
+               70        80        90       100       110       120
 
+              130       140       150       160       170       180
+5002|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5008|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
+              130       140       150       160       170       180
 
+              190       200       210       220       230       240
+5002|T GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5008|T GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL
+              190       200       210       220       230       240
 
-20507781 residues in 67887 query   sequences
-20507781 residues in 67887 library sequences
- Tcomplib [36.3.8 Jul, 2015(preload9)] (64 proc in memory [0G])
- start: Thu Oct 10 23:32:13 2024 done: Fri Oct 11 01:02:10 2024
- Total Scan time: 91167.870 Total Display time: 9979.390
+              250       260       270       280       290       300
+5002|T DPATSELYRDGKYHLEGEGKVLSSEEMVAFWEAWVEKYPIRSIEDGLAEDDWEGWRLLTE
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5008|T DPATSELYRDGKYHLEGEGKVLSSEEMVAFWEAWVEKYPIRSIEDGLAEDDWEGWRLLTE
+              250       260       270       280       290       300
 
-Function used was FASTA [36.3.8 Jul, 2015(preload9)]
+              310       320       330       340       350       360
+5002|T RLGGKVQLVGDDLFVTNPERLRAGIERGVANAILVKVNQIGTLSETLEAIRLAQRSGYRA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5008|T RLGGKVQLVGDDLFVTNPERLRAGIERGVANAILVKVNQIGTLSETLEAIRLAQRSGYRA
+              310       320       330       340       350       360
+
+              370       380       390       400       410       420
+5002|T VISHRSGETEDSFIADLAVAVNAGQIKTGSLSRSDRLAKYNQLLRIEEELGRAARFLGYA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5008|T VISHRSGETEDSFIADLAVAVNAGQIKTGSLSRSDRLAKYNQLLRIEEELGRAARFLGYA
+              370       380       390       400       410       420
+
+         
+5002|T AF
+       ::
+5008|T AF
+         
+
+>>sn33|TthSNM33_00030|eno phosphopyruvate hydratase       (422 aa)
+ initn: 2692 init1: 2692 opt: 2692  Z-score: 2728.6  bits: 513.9 E(67887): 2.4e-145
+Smith-Waterman score: 2692; 100.0% identity (100.0% similar) in 422 aa overlap (1-422:1-422)
+
+               10        20        30        40        50        60
+5002|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sn33|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
+               10        20        30        40        50        60
+
+               70        80        90       100       110       120
+5002|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sn33|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
+               70        80        90       100       110       120
+
+              130       140       150       160       170       180
+5002|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sn33|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
+              130       140       150       160       170       180
+
+              190       200       210       220       230       240
+5002|T GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sn33|T GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL
+              190       200       210       220       230       240
+
+              250       260       270       280       290       300
+5002|T DPATSELYRDGKYHLEGEGKVLSSEEMVAFWEAWVEKYPIRSIEDGLAEDDWEGWRLLTE
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sn33|T DPATSELYRDGKYHLEGEGKVLSSEEMVAFWEAWVEKYPIRSIEDGLAEDDWEGWRLLTE
+              250       260       270       280       290       300
+
+              310       320       330       340       350       360
+5002|T RLGGKVQLVGDDLFVTNPERLRAGIERGVANAILVKVNQIGTLSETLEAIRLAQRSGYRA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sn33|T RLGGKVQLVGDDLFVTNPERLRAGIERGVANAILVKVNQIGTLSETLEAIRLAQRSGYRA
+              310       320       330       340       350       360
+
+              370       380       390       400       410       420
+5002|T VISHRSGETEDSFIADLAVAVNAGQIKTGSLSRSDRLAKYNQLLRIEEELGRAARFLGYA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+sn33|T VISHRSGETEDSFIADLAVAVNAGQIKTGSLSRSDRLAKYNQLLRIEEELGRAARFLGYA
+              370       380       390       400       410       420
+
+         
+5002|T AF
+       ::
+sn33|T AF
+         
+
+>>5008|TthHB5008_00030|eno phosphopyruvate hydratase      (422 aa)
+ initn: 2692 init1: 2692 opt: 2692  Z-score: 2728.6  bits: 513.9 E(67887): 2.4e-145
+Smith-Waterman score: 2692; 100.0% identity (100.0% similar) in 422 aa overlap (1-422:1-422)
+
+               10        20        30        40        50        60
+5002|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5008|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
+               10        20        30        40        50        60
+
+               70        80        90       100       110       120
+5002|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5008|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
+               70        80        90       100       110       120
+
+              130       140       150       160       170       180
+5002|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5008|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
+              130       140       150       160       170       180
+
+              190       200       210       220       230       240
+5002|T GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5008|T GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL
+              190       200       210       220       230       240
+
+              250       260       270       280       290       300
+5002|T DPATSELYRDGKYHLEGEGKVLSSEEMVAFWEAWVEKYPIRSIEDGLAEDDWEGWRLLTE
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5008|T DPATSELYRDGKYHLEGEGKVLSSEEMVAFWEAWVEKYPIRSIEDGLAEDDWEGWRLLTE
+              250       260       270       280       290       300
+
+              310       320       330       340       350       360
+5002|T RLGGKVQLVGDDLFVTNPERLRAGIERGVANAILVKVNQIGTLSETLEAIRLAQRSGYRA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5008|T RLGGKVQLVGDDLFVTNPERLRAGIERGVANAILVKVNQIGTLSETLEAIRLAQRSGYRA
+              310       320       330       340       350       360
+
+              370       380       390       400       410       420
+5002|T VISHRSGETEDSFIADLAVAVNAGQIKTGSLSRSDRLAKYNQLLRIEEELGRAARFLGYA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+5008|T VISHRSGETEDSFIADLAVAVNAGQIKTGSLSRSDRLAKYNQLLRIEEELGRAARFLGYA
+              370       380       390       400       410       420
+
+         
+5002|T AF
+       ::
+5008|T AF
+         
+
+>>tth7|TT_C1610|eno phosphopyruvate hydratase             (422 aa)
+ initn: 2692 init1: 2692 opt: 2692  Z-score: 2728.6  bits: 513.9 E(67887): 2.4e-145
+Smith-Waterman score: 2692; 100.0% identity (100.0% similar) in 422 aa overlap (1-422:1-422)
+
+               10        20        30        40        50        60
+5002|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+tth7|T MTTIVGVRAREVLDSRGFPTVEAEVELEGGARGRAMVPSGASTGTHEALELRDGGKRYLG
+               10        20        30        40        50        60
+
+               70        80        90       100       110       120
+5002|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+tth7|T KGVRRAVENVNERIAPELVGMDALDQEGVDRAMLELDGTPNKANLGANAVLAVSLAVARA
+               70        80        90       100       110       120
+
+              130       140       150       160       170       180
+5002|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+tth7|T AAEALGLPLYRYLGGVQGVTLPVPLMNVINGGKHADNRVDFQEFMLVPAGAGSFAEALRI
+              130       140       150       160       170       180
+
+              190       200       210       220       230       240
+5002|T GAEVFHTLKAVLKEKGYSTNVGDEGGFAPDLRSNEEAVELLLLAIERAGYTPGQEVSLAL

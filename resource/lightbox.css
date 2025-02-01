@@ -4,6 +4,7 @@
 	border-bottom: 1px solid #666;
 	border-right: 1px solid #666;
 }
+
 #lightboxCaption {
 	color: #333;
 	background-color: #eee;
@@ -12,16 +13,19 @@
 	border-bottom: 1px solid #666;
 	border-right: 1px solid #666;
 }
+
 #lightboxIndicator {
 	border: 1px solid white;
 }
+
 #lightboxOverallView,
 #overlay {
 	background-color: #000;
 	opacity: 0.5;
 }
+
 * html #lightboxOverallView,
 * html #overlay {
 	background-color: #000;
-	filter: Alpha(opacity=50);
+	filter: alpha(opacity=50);
 }

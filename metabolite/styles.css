@@ -1,16 +1,16 @@
 .dm {
     margin-bottom: 10px;
-    color: #CC7700;
+    color: #C70;
     font-size: 24px;
 
     .menu-tree {
-
         font-size: 18px;
         line-height: 2em;
 
         .hover-text {
             position: relative;
         }
+
         .hover-text::after {
             position: absolute;
             left: 0;

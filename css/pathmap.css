@@ -7,7 +7,7 @@
 }
 
 /* iPhone版のシンプルなスタイル */
-@media (max-width: 768px) {
+@media (width <= 768px) {
     html, body {
         height: 100vh; /* ビューポートの高さを100%に設定 */
         overflow: hidden; /* スクロールバーを非表示に */
@@ -50,7 +50,7 @@
 
 
 /* PC版のスタイル */
-@media (min-width: 769px) {
+@media (width >= 769px) {
     body {
         background: #eee;
         margin-left: 20px;
@@ -84,10 +84,7 @@
 
     .zoom-area {
         position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
+        inset: 0;
         border: 1px solid #ccc;
         overflow: hidden;
         cursor: move;
@@ -96,8 +93,7 @@
 
 
 /* PC版のスタイル */
-@media (min-width: 769px) {
-
+@media (width >= 769px) {
     /* リセット */
     * {
         margin: 0;
@@ -185,10 +181,7 @@
     .zoom-area {
         display: block;
         position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
+        inset: 0;
         border: 1px solid #ccc; /* 正常版に戻す */
         overflow: hidden; /* 変更: hiddenをvisibleでPC版正常に */
         cursor: move;
@@ -211,10 +204,11 @@
     }
 
     /* メディアクエリでレスポンシブ対応 */
-    @media (max-width: 768px) {
+    @media (width <= 768px) {
         .zoom-area {
             width: 90vw;
         }
+
         .slides {
             width: 100%;
         }
